@@ -1,0 +1,246 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Island Trace</title>
+<meta name="description" content="An 'Unidentified Map' in the US National Archives is a British artillery overlay of the Nijmegen bridgehead, October 1944. The sheet identifies itself, once you read its grid.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+:root{
+  --paper:#EBE3CB; --panel:#F5F0E1; --ink:#2A2620; --muted:#6B6253; --rule:#CBBF9F;
+  --red:#B4322B; --blue:#2D4D9C; --red-soft:rgba(180,50,43,.12); --blue-soft:rgba(45,77,156,.12);
+  --shadow:0 1px 0 rgba(42,38,32,.15), 0 12px 30px -18px rgba(42,38,32,.45);
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --paper:#1B1C21; --panel:#24262D; --ink:#E8E1CF; --muted:#A79F8E; --rule:#3B3E49;
+    --red:#E3705F; --blue:#82A0EA; --red-soft:rgba(227,112,95,.16); --blue-soft:rgba(130,160,234,.16);
+    --shadow:0 1px 0 rgba(0,0,0,.4), 0 12px 30px -18px rgba(0,0,0,.8);
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#1B1C21; --panel:#24262D; --ink:#E8E1CF; --muted:#A79F8E; --rule:#3B3E49;
+  --red:#E3705F; --blue:#82A0EA; --red-soft:rgba(227,112,95,.16); --blue-soft:rgba(130,160,234,.16);
+  --shadow:0 1px 0 rgba(0,0,0,.4), 0 12px 30px -18px rgba(0,0,0,.8);
+}
+*{box-sizing:border-box}
+html{color-scheme:light dark}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:"Source Serif 4",Georgia,"Times New Roman",serif;font-size:1.0625rem;line-height:1.6;padding-inline:clamp(16px,4vw,48px);padding-block:0 4rem}
+h1,h2,h3{font-family:"Barlow Condensed","Arial Narrow",Arial,sans-serif;text-wrap:balance;line-height:1.05;margin:0}
+h1{font-weight:700;font-size:clamp(2.8rem,8vw,5.5rem);letter-spacing:.005em}
+h2{font-weight:600;font-size:clamp(1.8rem,3.6vw,2.6rem);margin-bottom:1rem}
+h3{font-weight:600;font-size:1.3rem;margin:1.6rem 0 .4rem}
+p{margin:0 0 1rem}
+a{color:inherit;text-decoration-color:var(--rule);text-underline-offset:.15em}
+a:hover{text-decoration-color:var(--ink)}
+a:focus-visible,input:focus-visible{outline:2px solid var(--blue);outline-offset:3px}
+.mono,code{font-family:"IBM Plex Mono","SFMono-Regular",Consolas,monospace;font-size:.86em}
+code{background:var(--panel);padding:.05em .3em;border-radius:3px}
+.wrap{max-width:68ch;margin-inline:auto}
+.wide{max-width:1100px;margin-inline:auto}
+.eyebrow{font-family:"IBM Plex Mono",monospace;font-size:.78rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+
+.hero{display:grid;grid-template-columns:1.1fr 1fr;gap:clamp(1.5rem,4vw,3.5rem);align-items:end;max-width:1100px;margin:0 auto;padding-block:2.5rem 2rem}
+.hero .title{display:flex;flex-direction:column;gap:1rem}
+.hero .dek{font-size:1.2rem;line-height:1.45;max-width:38ch}
+.hero .meta{display:grid;grid-template-columns:auto 1fr;gap:.25rem 1rem;font-family:"IBM Plex Mono",monospace;font-size:.82rem;color:var(--muted);border-top:1px solid var(--rule);padding-top:.9rem;font-variant-numeric:tabular-nums;margin:0}
+.hero .meta dd{margin:0}
+.hero .meta b{color:var(--ink);font-weight:500}
+.hero figure{margin:0}
+.hero img{width:100%;height:auto;display:block;box-shadow:var(--shadow);transform:rotate(-.6deg)}
+@media (max-width:760px){.hero{grid-template-columns:1fr}.hero img{transform:none}}
+
+section{padding-block:2.5rem;border-top:1px solid var(--rule)}
+figure{margin:1.5rem 0}
+figure img{width:100%;height:auto;display:block;box-shadow:var(--shadow)}
+figcaption{font-size:.9rem;color:var(--muted);margin-top:.6rem;line-height:1.45}
+.figrow{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:1.2rem;align-items:start}
+.plain img{box-shadow:none;border:1px solid var(--rule)}
+
+table{border-collapse:collapse;width:100%;font-size:.92rem;font-variant-numeric:tabular-nums;margin:1rem 0}
+th,td{text-align:left;padding:.45rem .6rem;border-bottom:1px solid var(--rule);vertical-align:top}
+th{font-family:"IBM Plex Mono",monospace;font-weight:500;font-size:.74rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.tscroll{overflow-x:auto}
+td.num{font-family:"IBM Plex Mono",monospace;font-size:.86rem}
+
+.note{background:var(--panel);padding:1rem 1.2rem;border-left:3px solid var(--rule);margin:1.2rem 0}
+.red{color:var(--red)}.blue{color:var(--blue)}
+.block{padding:.05em .35em;border-radius:2px;font-family:"Barlow Condensed",sans-serif;font-weight:600;letter-spacing:.04em;font-size:1.05em}
+.block.r{background:var(--red-soft);color:var(--red)}.block.b{background:var(--blue-soft);color:var(--blue)}
+
+.compare{position:relative;max-width:1100px;margin:1.5rem auto 0;aspect-ratio:2062/2576;max-height:90vh;overflow:hidden;box-shadow:var(--shadow);background:var(--panel)}
+.compare img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;display:block;box-shadow:none}
+.compare .top{clip-path:inset(0 0 0 var(--cut,50%))}
+.compare .handle{position:absolute;top:0;bottom:0;left:var(--cut,50%);width:2px;background:var(--red);transform:translateX(-1px);pointer-events:none}
+.compare .handle::after{content:"";position:absolute;top:50%;left:50%;width:34px;height:34px;border-radius:50%;background:var(--red);transform:translate(-50%,-50%);box-shadow:0 0 0 3px var(--paper)}
+.compare input{position:absolute;inset:0;width:100%;height:100%;margin:0;opacity:0;cursor:ew-resize}
+.compare .lab{position:absolute;bottom:.6rem;font-family:"IBM Plex Mono",monospace;font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;background:var(--paper);color:var(--ink);padding:.2em .5em;pointer-events:none}
+.compare .lab.l{left:.6rem}.compare .lab.r{right:.6rem}
+
+.sources li{margin-bottom:.4rem}
+footer{max-width:68ch;margin:3rem auto 0;padding-top:1.2rem;border-top:1px solid var(--rule);font-size:.88rem;color:var(--muted)}
+@media (prefers-reduced-motion: reduce){*{transition:none!important;animation:none!important}}
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <div class="title">
+    <span class="eyebrow">A geospatial story</span>
+    <h1>The Island Trace</h1>
+    <p class="dek">The US National Archives <a href="https://catalog.archives.gov/id/100384845">catalogues this sheet</a> as "Unidentified Map". It is a British artillery overlay of the Nijmegen bridgehead, printed in October 1944, and it identifies itself: every place it depicts is written on it as a number.</p>
+    <dl class="meta">
+      <dt>Held by</dt><dd><b><a href="https://catalog.archives.gov/id/100384845">NARA</a></b>, <a href="https://www.archives.gov/research/guide-fed-records/groups/407.html">RG 407</a>, "2nd Army Folder 19 – Overlays"</dd>
+      <dt>Depicts</dt><dd><b>The Island (<a href="https://en.wikipedia.org/wiki/Betuwe">Betuwe</a>)</b>, between the Waal and the Nederrijn</dd>
+      <dt>Made</dt><dd><b>October 1944</b>, 519 Field Survey Company RE, <a href="https://en.wikipedia.org/wiki/Second_Army_(United_Kingdom)">British Second Army</a></dd>
+      <dt>Grid</dt><dd><b><a href="https://epsg.io/27500">Nord de Guerre Zone</a></b>, 1:25,000, <a href="https://www.battlefieldhistorian.com/gsgs-4427-series-holland-125000.asp">GSGS 4427</a> sheets 6 NW and 6 SW</dd>
+    </dl>
+  </div>
+  <figure>
+    <img src="img/scan.jpg" width="2062" height="2576" alt="The full sheet: a buff tracing-paper overlay with two rivers, a railway, a typed table of grid references and red and blue target areas labelled with animal names" loading="eager">
+    <figcaption>The sheet. <a href="https://catalog.archives.gov/id/100384845">National Archives Identifier 100384845</a>; Wikimedia Commons file <a href="https://commons.wikimedia.org/wiki/File:Unidentified_Map_-_NARA_-_100384845.jpg"><span class="mono">Unidentified_Map_-_NARA_-_100384845.jpg</span></a>.</figcaption>
+  </figure>
+</header>
+
+<section>
+  <div class="wrap">
+    <h2>A map with no map on it</h2>
+    <p>The sheet is tracing paper. On it are two rivers, a railway, a road junction, three place names, a typed table, and twenty-two shapes outlined in red and blue pencil, each labelled with an animal and each containing crosses with numbers beside them. Top right it says "Sheet 2 of 2". Bottom left is a serial, <span class="mono">SA/10/1679</span>. There is no title, no scale bar, no north arrow, no legend beyond one line at the foot of the table. It was drawn to be laid over a printed map that is not here.</p>
+    <p>The place names are the first anchor: NIJMEGEN beside the southern river, ELST at the road junction on the railway, HUISSEN off to the right. Those three towns sit within twelve kilometres of one another in Gelderland, in the Netherlands, on the strip of polder the Allies called "the Island": the <a href="https://en.wikipedia.org/wiki/Betuwe">Betuwe</a>, between the <a href="https://en.wikipedia.org/wiki/Waal_(river)">Waal</a> to the south and the <a href="https://en.wikipedia.org/wiki/Nederrijn">Nederrijn</a> to the north. The southern river on the sheet must be the Waal, the northern the Nederrijn, and the railway the Nijmegen–Arnhem line. That is a hypothesis. The table proves it.</p>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <h2>The numbers are places</h2>
+    <p>The table lists seventy-four entries under the headings <span class="mono">No. · E · N · Ht · Axis</span>. E and N are four-figure eastings and northings, the form a British gunner used in 1944 to give a position to ten metres: <span class="mono">7604 6577</span> means 76.04 km east and 65.77 km north of the corner of a 100-kilometre grid square. The grid is the <a href="https://www.normandywarguide.com/articles/researching-with-british-war-diaries">Nord de Guerre Zone</a>, the Allied grid for the Low Countries, a Lambert projection that survives today as <a href="https://epsg.io/27500">EPSG code 27500</a>, so a modern coordinate can be turned into a 1944 grid reference and back.</p>
+  </div>
+  <div class="wide">
+    <figure>
+      <img src="img/crop_table.jpg" width="560" height="695" alt="Typed table with columns No., E, N, Ht, Axis listing targets 1201 to 1238 and 1239 to 435, with the legend circled-x equals NOT DF" loading="lazy">
+      <figcaption>The table. Number, easting, northing, height in metres, and either a bearing in degrees or "conc". The foot reads "⊗ = NOT DF".</figcaption>
+    </figure>
+  </div>
+  <div class="wrap">
+    <p>A four-figure reference leaves off which 100-km square it is in. Only one square puts the three named towns in the right places relative to the seventy-four numbers. In it, the modern coordinates of the landmarks come out as:</p>
+    <div class="tscroll"><table>
+      <thead><tr><th>Landmark</th><th>1944 grid (E N)</th><th>On the sheet</th></tr></thead>
+      <tbody>
+        <tr><td>Nijmegen, Waal road bridge</td><td class="num">7087 6329</td><td>just north-east of the grid cross labelled 67 / 64</td></tr>
+        <tr><td>Elst, church</td><td class="num">7077 7059</td><td>the ELST block; targets 300 and 1238 a kilometre to its east</td></tr>
+        <tr><td>Huissen, centre</td><td class="num">7619 7257</td><td>the HUISSEN block; target 1242 (LION) three kilometres west</td></tr>
+        <tr><td>Driel</td><td class="num">6736 7446</td><td>target 1450, 300 m north</td></tr>
+        <tr><td>Arnhem, road bridge</td><td class="num">7450 7684</td><td>where the Nederrijn on the sheet turns north</td></tr>
+      </tbody>
+    </table></div>
+    <p>Everything fits. The grid crosses drawn on the sheet, labelled 64, 67, 73 and 75, are the kilometre lines of that square. The four cramped labels at the double cross in the middle, <span class="mono">6NW W · 6NW E · 6SW W · 6SW E</span>, name the printed map the overlay belongs on: the East and West halves of sheets <a href="https://www.battlefieldhistorian.com/gsgs-4427-125000-arnhem-sheet-6-nw-bhc-00987.asp">6 NW (Arnhem)</a> and <a href="https://www.battlefieldhistorian.com/gsgs-4427-125000-nijmegen-sheet-6-sw-bhc-00988.asp">6 SW (Nijmegen)</a> of <a href="https://www.battlefieldhistorian.com/gsgs-4427-series-holland-125000.asp">GSGS 4427</a>, the British 1:25,000 series of Holland, which meet at exactly that corner, grid 70 / 70. And the heights agree with the ground: the Betuwe polder lies eight to ten metres above Dutch datum, the sheet gives 8, 9 and 10 for target after target, and the two targets whose heights are wrong are the two that lie across the river on the <a href="https://en.wikipedia.org/wiki/Westerbouwing">Westerbouwing</a> bluff, which rises to fifty metres.</p>
+  </div>
+</section>
+
+<section>
+  <div class="wide">
+    <h2 class="wrap">The shape of a front line</h2>
+    <p class="wrap">Put on a modern map, the seventy-four points are not scattered across the Island. They form three chains, and the chains have a shape that anyone who knows the autumn of 1944 will recognise.</p>
+    <figure>
+      <img src="img/basemap.png" width="1950" height="1500" alt="Modern map of the Betuwe with three chains of coloured points: red from the Waal dyke at Haalderen north-west to Elst, blue from Elst north to the Nederrijn and west to Driel, green around Driel and Heteren" loading="lazy">
+      <figcaption>The table's coordinates over today's rivers, roads and railways. <span class="block r">1201–1242</span> run from the Waal dyke south of Haalderen north-west through Baal and Bergerden to the east side of Elst. <span class="block b">300–322</span> run from Elst north past Elden to the Nederrijn, then west along the river past the Driel ferry. The <span class="block b">400s</span> sit on the south bank between Driel and Heteren.</figcaption>
+    </figure>
+    <div class="wrap">
+      <p>After <a href="https://en.wikipedia.org/wiki/Operation_Market_Garden">Operation Market Garden</a> failed to hold Arnhem, the Allies were left with the southern half of the Island: Nijmegen and its bridges, Elst, and the polder west to Opheusden. The Germans held the ground east of Bemmel, the approaches to the Arnhem bridge at Elden, and the whole north bank of the Nederrijn. The red chain traces the eastern edge of the Allied position; the blue chain traces its northern edge along the river. Every target lies on the German side. This is a map of where the enemy was, drawn by the side facing him.</p>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <h2>What the targets are</h2>
+    <p>The line at the foot of the table settles what kind of map it is: "⊗ = NOT DF". DF is <a href="https://nigelef.tripod.com/fireplan.htm">defensive fire</a>. When a position is likely to be attacked, its supporting guns register targets in advance, along the approaches the attack would use, so that an infantry company under assault can call down fire by number in seconds. The numbered crosses are those targets. A bar through a cross, with ticks at its ends, marks a linear target, a line of shells rather than a point; the bearing of that line is the "Axis" column. The entries marked "conc" are concentrations, fire on a point. The few circled targets are on the list but are not defensive-fire tasks.</p>
+  </div>
+  <div class="wide">
+    <div class="figrow">
+      <figure>
+        <img src="img/crop_lion.jpg" width="550" height="390" alt="Red pencil outlines labelled LION, HOG, GOAT and OX around crosses numbered 1233 to 1242, each with a short line through it" loading="lazy">
+        <figcaption><span class="red">LION, HOG, GOAT, OX</span>: the red block, east of Elst, facing the German line along the Wetering.</figcaption>
+      </figure>
+      <figure>
+        <img src="img/crop_crane.jpg" width="1020" height="360" alt="Blue pencil outlines labelled CRANE, ROOK and ROBIN along a traced river, with targets 315 to 322 and a cluster numbered 412 to 468 at left" loading="lazy">
+        <figcaption><span class="blue">CRANE, ROOK, ROBIN</span>: the blue block along the Nederrijn, with the 400-series cluster on the Driel–Heteren bank at left.</figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="wrap">
+    <p>The animal names are the target areas a battery would be told to cover, and they are not chosen at random. Every red area is a mammal: RHINO, APE, PIG, BEAR, BEAVER, COW, DOE, ELK, FAWN, ELEPHANT, FERRET, OX, GOAT, HOG, LION. Every blue area is a bird: CROW, JAY, OWL, DUCK, ROBIN, ROOK, CRANE. Two naming schemes, two number series, two colours: two formations' worth of defensive fire on one sheet.</p>
+    <p>Those two formations can be named from the ground they cover. In October 1944 the eastern Island, from the Waal dyke at Haalderen up through Baal and Bergerden to Elst, was the sector of the <a href="https://en.wikipedia.org/wiki/50th_(Northumbrian)_Infantry_Division">50th (Northumbrian) Division</a>, which <a href="https://en.wikipedia.org/wiki/Battle_of_the_Nijmegen_salient">attacked toward Baal and Haalderen</a> on 3 October and then held the line, with the US <a href="https://en.wikipedia.org/wiki/508th_Infantry_Regiment_(United_States)">508th Parachute Infantry</a> attached from the 6th. That is the <span class="block r">red block</span>. The northern edge, from Elst past Elden and along the river to Driel and Heteren, was held by the <a href="https://en.wikipedia.org/wiki/43rd_(Wessex)_Infantry_Division">43rd (Wessex) Division</a> until 3–5 October, when it handed over to the US <a href="https://en.wikipedia.org/wiki/101st_Airborne_Division">101st Airborne Division</a>, which fought there under British corps command with British guns in support. That is the <span class="block b">blue block</span>.</p>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <h2>Who made it, and when</h2>
+    <p>The sheet is filed at the National Archives in College Park in a folder of the Adjutant General's Office's <a href="https://catalog.archives.gov/id/3054040">World War II records</a> labelled "2nd Army Folder 19 – Overlays". The <a href="https://en.wikipedia.org/wiki/Second_United_States_Army">US Second Army</a> spent the war training troops in Tennessee. The folder's other contents are Royal Artillery fire plans for the 3rd British and 51st Highland Divisions, a 12 Corps reference-point trace, and route-intelligence overlays for the Rhine, Weser, Elbe and Kiel Canal: this is the <a href="https://en.wikipedia.org/wiki/Second_Army_(United_Kingdom)">British Second Army</a>, and the folder is a bundle of its artillery traces that ended up in American hands.</p>
+  </div>
+  <div class="wide">
+    <figure class="plain" style="max-width:640px">
+      <img src="img/crop_imprint.jpg" width="930" height="228" alt="Printed serial SA/10/1679 with a line of small print beneath reading roughly 10/44/519 RE/1679" loading="lazy">
+      <figcaption>The imprint at bottom left. Beneath the serial, in smaller type: <span class="mono">[?]/10/44/519 RE/1679</span>.</figcaption>
+    </figure>
+  </div>
+  <div class="wrap">
+    <p>The serial says the same thing in the sheet's own hand. <span class="mono">SA/10/1679</span> is Second Army's number for the trace; the line beneath it is the printer's: reproduced in October 1944 by <a href="https://www.backtonormandy.org/the-history/engineers/royal-engineers/survey-units-re/field-survey-company-re/521-field-survey-company-re/27693-521fsc13.html">519 Field Survey Company, Royal Engineers</a>, one of the two survey companies that landed with Second Army in June and did its artillery survey and map printing all the way to Germany. Print number 1679.</p>
+    <p>October 1944 is the only month it could be. The Island became a British responsibility on 28 September, when the 101st Airborne came under British XII Corps there. On 9 November the whole Nijmegen salient passed to <a href="https://en.wikipedia.org/wiki/First_Canadian_Army">First Canadian Army</a>. On 2 December the Germans <a href="https://en.wikipedia.org/wiki/Battle_of_the_Nijmegen_salient">blew the Nederrijn dyke at Elden</a> and flooded the eastern Island, putting every red target under water. A Second Army trace of these two sectors, printed in October, sits inside the six weeks in which the ground it shows was the front.</p>
+  </div>
+</section>
+
+<section>
+  <div class="wide">
+    <h2 class="wrap">Back on the ground</h2>
+    <p class="wrap">A tracing-paper overlay has no coastline to fit to a modern map, but it has five grid crosses, drawn so the sheet could be aligned on the printed map beneath it, each labelled with its kilometre value. Those five crosses fix the sheet in the 1944 grid; the grid's definition fixes it on the earth. The fit is good to seventeen metres, three pixels on this copy, which is about the width of the pencil lines.</p>
+    <figure class="plain">
+      <img src="img/gcps.png" width="1400" height="280" alt="Five enlarged tiles of the grid crosses, each with a red marker on the detected centre and its kilometre labels: 75/75, 67/73, 67/64, 75/64, and the double-line corner cross" loading="lazy">
+      <figcaption>The five crosses. Eight grid kilometres span the sheet at four centimetres per kilometre: the overlay was drawn at the base sheet's own 1:25,000.</figcaption>
+    </figure>
+    <p class="wrap">Drag the slider. The right side shows what the fitted sheet claims: every one of the seventy-four table coordinates projected back onto the paper as a green circle, today's rivers in thin blue, and the present positions of the Elst church, Huissen, the two Nijmegen bridges, the Arnhem bridge and the Driel ferry in magenta.</p>
+    <div class="compare" id="compare" style="--cut:50%">
+      <img src="img/scan.jpg" width="2062" height="2576" alt="The raw scan" loading="lazy">
+      <img class="top" src="img/overlay.jpg" width="2062" height="2576" alt="The same scan with projected targets, modern rivers and landmarks drawn over it" loading="lazy">
+      <div class="handle"></div>
+      <span class="lab l">the sheet</span><span class="lab r">the sheet, georeferenced</span>
+      <input type="range" id="cut" min="0" max="100" value="50" aria-label="Reveal the georeferenced overlay">
+    </div>
+    <figcaption class="wrap">Every circle lands on its cross. The Elst marker falls on the hatched ELST block, the bridges on the two traced crossings of the Waal, the Driel ferry on the river between CRANE and ROOK. The sheet's table and the sheet's drawing agree with each other and with the ground.</figcaption>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <h2>What the sheet cannot tell us</h2>
+    <p>It cannot tell us which day in October it was printed, or which regiments' guns were laid on RHINO and CRANE; that is in the divisional artillery war diaries (<a href="https://discovery.nationalarchives.gov.uk/details/r/C14152">WO 171</a>) at Kew. It cannot tell us what was on Sheet 1 of 2, which would carry the title block; that sheet is not among the folder's scanned items. And the first character of the printer's line is not legible on the copy used here, though it should be on the National Archives' full-resolution scan.</p>
+    <div class="note">
+      <p>Everything else on this page can be checked. The catalogue record, the seventy-four coordinates in modern latitude and longitude, the georeferenced GeoTIFF, the figures and the code that produces them are at <a href="https://github.com/fossettlab/island-trace">github.com/fossettlab/island-trace</a>.</p>
+    </div>
+    <h3>Sources</h3>
+    <ul class="sources">
+      <li>The sheet: <a href="https://catalog.archives.gov/id/100384845">NARA, National Archives Identifier 100384845</a>, Record Group 407, series <a href="https://catalog.archives.gov/id/3054040">World War II Records</a>; on Wikimedia Commons as <a href="https://commons.wikimedia.org/wiki/File:Unidentified_Map_-_NARA_-_100384845.jpg">File:Unidentified Map - NARA - 100384845.jpg</a>.</li>
+      <li>Grid: EPSG:27500, "ATF (Paris) / Nord de Guerre". Base map: GSGS 4427 Holland 1:25,000, sheets 6 NW (Arnhem) and 6 SW (Nijmegen).</li>
+      <li>Modern geography: <a href="https://overturemaps.org/">Overture Maps</a> release 2026-08-19; <a href="https://registry.opendata.aws/copernicus-dem/">Copernicus DEM GLO-30</a>.</li>
+      <li>The Island in October 1944: <a href="https://en.wikipedia.org/wiki/Battle_of_the_Nijmegen_salient">Battle of the Nijmegen salient</a>; <a href="https://en.wikipedia.org/wiki/50th_(Northumbrian)_Infantry_Division">50th (Northumbrian)</a>, <a href="https://en.wikipedia.org/wiki/43rd_(Wessex)_Infantry_Division">43rd (Wessex)</a> and <a href="https://en.wikipedia.org/wiki/101st_Airborne_Division">101st Airborne</a> Divisions; <a href="https://www.tracesofwar.nl/sights/56750/508th-Regimental-Combat-Team-Command-Post.htm">508th RCT at Bemmel</a> (TracesOfWar); <a href="https://www.backtonormandy.org/the-history/engineers/royal-engineers/survey-units-re/field-survey-company-re/521-field-survey-company-re/27693-521fsc13.html">519 and 521 Field Survey Companies RE</a>.</li>
+    </ul>
+  </div>
+</section>
+
+<footer>
+  Source scan: National Archives and Records Administration, public domain. Basemap data © Overture Maps Foundation contributors (ODbL/CDLA). Terrain: Copernicus DEM © ESA/Airbus.
+</footer>
+
+<script>
+(function(){
+  var c=document.getElementById('compare'), r=document.getElementById('cut');
+  if(!c||!r) return;
+  function set(){ c.style.setProperty('--cut', r.value+'%'); }
+  r.addEventListener('input', set); set();
+})();
+</script>
+</body>
+</html>

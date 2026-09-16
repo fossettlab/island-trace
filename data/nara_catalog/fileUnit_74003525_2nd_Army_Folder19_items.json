@@ -1,0 +1,4009 @@
+[
+ {
+  "record": {
+   "accessRestriction": {
+    "status": "Unrestricted"
+   },
+   "ancestors": [
+    {
+     "distance": 2,
+     "inclusiveEndDate": {
+      "logicalDate": "1981-12-31",
+      "year": 1981
+     },
+     "inclusiveStartDate": {
+      "logicalDate": "1905-01-01",
+      "year": 1905
+     },
+     "levelOfDescription": "recordGroup",
+     "naId": 703,
+     "recordGroupNumber": 407,
+     "title": "Records of the Adjutant General's Office"
+    },
+    {
+     "creators": [
+      {
+       "abolishDate": {
+        "day": 18,
+        "logicalDate": "1947-09-18",
+        "month": 9,
+        "year": 1947
+       },
+       "authorityType": "organization",
+       "creatorType": "Most Recent",
+       "establishDate": {
+        "day": 4,
+        "logicalDate": "1907-03-04",
+        "month": 3,
+        "year": 1907
+       },
+       "heading": "War Department. The Adjutant General's Office. 3/4/1907-9/18/1947",
+       "naId": 10468382
+      }
+     ],
+     "distance": 1,
+     "inclusiveEndDate": {
+      "dateQualifier": "ca.",
+      "logicalDate": "1947-12-31",
+      "year": 1947
+     },
+     "inclusiveStartDate": {
+      "dateQualifier": "ca.",
+      "logicalDate": "1941-01-01",
+      "year": 1941
+     },
+     "levelOfDescription": "series",
+     "naId": 3054040,
+     "title": "World War II Records"
+    }
+   ],
+   "dataControlGroup": {
+    "groupCd": "RDSC",
+    "groupId": "ou=NWCS-C,ou=groups"
+   },
+   "generalRecordsTypes": [
+    "Maps and Charts"
+   ],
+   "itemCount": 14,
+   "levelOfDescription": "fileUnit",
+   "naId": 74003525,
+   "physicalOccurrences": [
+    {
+     "copyStatus": "Preservation-Reproduction-Reference",
+     "mediaOccurrences": [
+      {
+       "generalMediaTypes": [
+        "Loose Sheets"
+       ],
+       "specificMediaType": "Paper"
+      }
+     ],
+     "referenceUnits": [
+      {
+       "address1": "National Archives at College Park",
+       "address2": "8601 Adelphi Road",
+       "city": "College Park",
+       "email": "carto@nara.gov",
+       "fax": "301-837-3622",
+       "mailCode": "RDSC",
+       "name": "National Archives at College Park - Cartographic",
+       "phone": "301-837-3200",
+       "postalCode": "20740-6001",
+       "state": "MD"
+      }
+     ]
+    }
+   ],
+   "recordType": "description",
+   "title": "2nd Army",
+   "useRestriction": {
+    "status": "Unrestricted"
+   }
+  },
+  "_source_chunk": "descriptions/record-groups/rg_407/rg_407-274.jsonl"
+ },
+ {
+  "record": {
+   "accessRestriction": {
+    "status": "Unrestricted"
+   },
+   "ancestors": [
+    {
+     "distance": 3,
+     "inclusiveEndDate": {
+      "logicalDate": "1981-12-31",
+      "year": 1981
+     },
+     "inclusiveStartDate": {
+      "logicalDate": "1905-01-01",
+      "year": 1905
+     },
+     "levelOfDescription": "recordGroup",
+     "naId": 703,
+     "recordGroupNumber": 407,
+     "title": "Records of the Adjutant General's Office"
+    },
+    {
+     "creators": [
+      {
+       "abolishDate": {
+        "day": 18,
+        "logicalDate": "1947-09-18",
+        "month": 9,
+        "year": 1947
+       },
+       "authorityType": "organization",
+       "creatorType": "Most Recent",
+       "establishDate": {
+        "day": 4,
+        "logicalDate": "1907-03-04",
+        "month": 3,
+        "year": 1907
+       },
+       "heading": "War Department. The Adjutant General's Office. 3/4/1907-9/18/1947",
+       "naId": 10468382
+      }
+     ],
+     "distance": 2,
+     "inclusiveEndDate": {
+      "dateQualifier": "ca.",
+      "logicalDate": "1947-12-31",
+      "year": 1947
+     },
+     "inclusiveStartDate": {
+      "dateQualifier": "ca.",
+      "logicalDate": "1941-01-01",
+      "year": 1941
+     },
+     "levelOfDescription": "series",
+     "naId": 3054040,
+     "title": "World War II Records"
+    },
+    {
+     "distance": 1,
+     "levelOfDescription": "fileUnit",
+     "naId": 74003525,
+     "title": "2nd Army"
+    }
+   ],
+   "audiovisual": "False",
+   "dataControlGroup": {
+    "groupCd": "RDSC",
+    "groupId": "ou=NWCS-C,ou=groups"
+   },
+   "digitalObjects": [
+    {
+     "extractedText": "\nTYPES OF SOIL\nSECRET\nOVERLAY\nTO (PART OF\nSHEET\n4 GS.G.S.N°4336\n20\nE (PART OF)\nIl\nQ1. q.S.G.S. No 4416\n& (PART OF)\nA\nSAND orGo AVEL forming\nCLAY SOIL Smal sand content\nrelatively always likely high to land be below\nWatertable\nincluded GOING Impossible ground for very wheels heavy\nin\nA\n20\nsurface except in localised\nSpots GOING regarded as GOOD\nwet and belly Poor foundation dig\nwea er tracks may in\nroad\nSAND, low terrace Slightly\nabove forming flood plain level water\nPEAT. Usually sandy and\nI\n2\ndrained by many cullivation\n(iable tolie pools oras tarrows\nI\nI\nditches 1n WET weather\n5\nFrequent cultivation ditches Bearing\ngoing is as difficult as\nGOOD Soil difficult mixed for wheels sand in wet and season\n4\nLOAM\nOld MEANDERS on RHINE plain\nintermediate Going passi between ble for tracks\n2and\n&\n3\noften cley weather. winter\narms of water. even in\nalways\nbut not for wheels in\nes pected to contains water\nwinter\nWORST part of the flood\n70\nE A\n00\n00\nK\nF\n20\nx\nf\nof\n4\n00\nR.\n80\n20\n80\nSOURCE : SOI GEOLOGY C.E.I21 ARMY GROUP.\n70\nPREPARED BY CHIEF ENCINEER 2ND ARMY (MAIN)\nSA/Misc/ 1953\n55/1/44/521 RE/1953",
+     "objectFileSize": 3478708,
+     "objectFilename": "74003525_006_001.jpg",
+     "objectId": "100384425",
+     "objectType": "Image (JPG)",
+     "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/cartographic/rg-407/3054040/74003525_006_001.jpg"
+    },
+    {
+     "extractedText": "\ntase\n1 445\n.410\n1433\n411\ntiass\n1437\n467\n(SoS)\n1443\ntas\ntisez 4f3\n-1487\n450\n405\n442\n464\n*\n406\n4,47\n-|\n446\ntiss\n404\n432\n433\n407\n4403\n402\n434\n400\n401\n1444\n1445|\n1451\nrest\n488\n4841\n11485\ntins\n438\n489\n1200\n490\n491\n1448\n423\n492.\n422\n420\n493\n494\n<421\n495\ntime\n496\nfor\n497\nfor\n498\n+\n499/\n482\ntass",
+     "objectFileSize": 4000006,
+     "objectFilename": "74003525_006_002.jpg",
+     "objectId": "100384426",
+     "objectType": "Image (JPG)",
+     "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/cartographic/rg-407/3054040/74003525_006_002.jpg"
+    }
+   ],
+   "generalRecordsTypes": [
+    "Maps and Charts"
+   ],
+   "levelOfDescription": "item",
+   "localIdentifier": "2nd Army Folder 19 -Overlays",
+   "naId": 100384424,
+   "physicalOccurrences": [
+    {
+     "copyStatus": "Preservation-Reproduction-Reference",
+     "mediaOccurrences": [
+      {
+       "containerId": "Folder 19",
+       "generalMediaTypes": [
+        "Loose Sheets"
+       ],
+       "specificMediaType": "Paper"
+      }
+     ],
+     "referenceUnits": [
+      {
+       "address1": "National Archives at College Park",
+       "address2": "8601 Adelphi Road",
+       "city": "College Park",
+       "email": "carto@nara.gov",
+       "fax": "301-837-3622",
+       "mailCode": "RDSC",
+       "name": "National Archives at College Park - Cartographic",
+       "phone": "301-837-3200",
+       "postalCode": "20740-6001",
+       "state": "MD"
+      }
+     ]
+    }
+   ],
+   "recordType": "description",
+   "title": "Types of Soil Overlay Sheet 4",
+   "useRestriction": {
+    "status": "Unrestricted"
+   }
+  },
+  "record_tag": [
+   {
+    "aiMachineGenerated": false,
+    "contribution": "types of soil",
+    "contributionId": "50c00dd5-6e56-49a4-811d-c0d3c6f96486",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-31 00:46:47",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 100384424,
+     "objectId": "100384425"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "4 g.s.g.s. no 4336",
+    "contributionId": "26871412-4611-4b21-b4ec-838381ace55a",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-31 00:47:06",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 100384424,
+     "objectId": "100384425"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "q1. g.s.g.s. no 4416",
+    "contributionId": "7d7c98aa-3684-4e03-a8c5-9ec4e0af0e16",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-31 00:47:24",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 100384424,
+     "objectId": "100384425"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "r.1. g.s.g.s. no 4416",
+    "contributionId": "c13ebb0e-8a7b-4939-ae89-1ce9cfb65c19",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-31 00:47:40",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 100384424,
+     "objectId": "100384425"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "sand or gravel",
+    "contributionId": "4aaac8d8-5a02-4974-80ce-88f5dcb75b10",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-31 00:48:27",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 100384424,
+     "objectId": "100384425"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "sand",
+    "contributionId": "f9d51a85-d95b-44c0-a066-385edd2681d4",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-31 00:48:29",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 100384424,
+     "objectId": "100384425"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "gravel",
+    "contributionId": "af419305-661c-4e87-8669-72f7785a3437",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-31 00:48:31",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 100384424,
+     "objectId": "100384425"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "loam soil",
+    "contributionId": "546eb150-2729-4564-8285-f803586eb6f9",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-31 00:48:38",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 100384424,
+     "objectId": "100384425"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "clay soil",
+    "contributionId": "81de6a0a-8b32-41c7-bb36-4b0ad9a72ea8",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-31 00:48:51",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 100384424,
+     "objectId": "100384425"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "peat",
+    "contributionId": "5ac3ff44-cbd8-45e1-8d31-0381d67c3897",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-31 00:48:53",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 100384424,
+     "objectId": "100384425"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "old meanders",
+    "contributionId": "143970d1-c4a4-4d3f-8e0d-f0b3e47da0cc",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-31 00:49:00",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 100384424,
+     "objectId": "100384425"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "rhine plain",
+    "contributionId": "6d3b884a-8be9-452a-b508-dd97129c20f1",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-31 00:49:34",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 100384424,
+     "objectId": "100384425"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "wwmp4147-tg1",
+    "contributionId": "64d29d27-b8ba-3e58-a033-976db99a0932",
+    "contributionType": "tag",
+    "contributor": {
+     "fullName": "NARA Citizen Archivist",
+     "naraStaff": true,
+     "userId": "53f5828d-d0b8-3f3a-982e-844a0ea3fb92",
+     "userName": "NARA Citizen Archivist"
+    },
+    "createdAt": "2019-04-17 19:29:07",
+    "recordType": "contribution",
+    "source": "naraStaff",
+    "target": {
+     "naId": 100384424
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "wowa2mp41-47",
+    "contributionId": "4b402f80-efa9-3bfb-99a9-a195dfa7ef9e",
+    "contributionType": "tag",
+    "contributor": {
+     "fullName": "NARA Citizen Archivist",
+     "naraStaff": true,
+     "userId": "53f5828d-d0b8-3f3a-982e-844a0ea3fb92",
+     "userName": "NARA Citizen Archivist"
+    },
+    "createdAt": "2019-04-17 19:29:07",
+    "recordType": "contribution",
+    "source": "naraStaff",
+    "target": {
+     "naId": 100384424
+    }
+   }
+  ],
+  "metadata_tag": [
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 100384424,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.781019",
+    "uuid": "30be858f-bba4-4c8e-98a5-124195005eee"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 100384424,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.781723",
+    "uuid": "f0ac84ca-228a-4162-91d8-efb0c6ba18c5"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 100384424,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.782018",
+    "uuid": "de714abd-f436-4dfd-9d50-6bf954239154"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 100384424,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.782416",
+    "uuid": "76002de8-f998-4314-bbaf-61e274b5a771"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 100384424,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.783413",
+    "uuid": "899e806b-e952-48cb-93bd-d81ef2cf2964"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 100384424,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.783513",
+    "uuid": "5e01ecc1-f42d-4b94-97bd-cfcd39c84cc7"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 100384424,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.783611",
+    "uuid": "d4185abd-d2ab-4294-8663-3eb8df9f4e19"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 100384424,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.783829",
+    "uuid": "539ff683-105e-4451-b5fd-7a010db490ca"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 100384424,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.784131",
+    "uuid": "b5b9a64e-06a7-421a-b1df-367dfa60d6c1"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 100384424,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.784238",
+    "uuid": "34fb7ea7-d886-45ea-ad90-0efb6f12c8e6"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 100384424,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.784441",
+    "uuid": "f29aaf06-4522-44b9-95b0-3fcb32b77ebd"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 100384424,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.785200",
+    "uuid": "fa771f77-c127-4583-8175-fcbc35399908"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 100384424,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 12:18:18.171920",
+    "uuid": "f2e10066-4389-40b7-95cf-c42682ec931d"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 100384424,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 12:18:18.172340",
+    "uuid": "db9fc8d1-8698-48d3-8b8d-053ee2835ee8"
+   }
+  ],
+  "_source_chunk": "descriptions/record-groups/rg_407/rg_407-35.jsonl"
+ },
+ {
+  "record": {
+   "accessRestriction": {
+    "status": "Unrestricted"
+   },
+   "ancestors": [
+    {
+     "distance": 3,
+     "inclusiveEndDate": {
+      "logicalDate": "1981-12-31",
+      "year": 1981
+     },
+     "inclusiveStartDate": {
+      "logicalDate": "1905-01-01",
+      "year": 1905
+     },
+     "levelOfDescription": "recordGroup",
+     "naId": 703,
+     "recordGroupNumber": 407,
+     "title": "Records of the Adjutant General's Office"
+    },
+    {
+     "creators": [
+      {
+       "abolishDate": {
+        "day": 18,
+        "logicalDate": "1947-09-18",
+        "month": 9,
+        "year": 1947
+       },
+       "authorityType": "organization",
+       "creatorType": "Most Recent",
+       "establishDate": {
+        "day": 4,
+        "logicalDate": "1907-03-04",
+        "month": 3,
+        "year": 1907
+       },
+       "heading": "War Department. The Adjutant General's Office. 3/4/1907-9/18/1947",
+       "naId": 10468382
+      }
+     ],
+     "distance": 2,
+     "inclusiveEndDate": {
+      "dateQualifier": "ca.",
+      "logicalDate": "1947-12-31",
+      "year": 1947
+     },
+     "inclusiveStartDate": {
+      "dateQualifier": "ca.",
+      "logicalDate": "1941-01-01",
+      "year": 1941
+     },
+     "levelOfDescription": "series",
+     "naId": 3054040,
+     "title": "World War II Records"
+    },
+    {
+     "distance": 1,
+     "levelOfDescription": "fileUnit",
+     "naId": 74003525,
+     "title": "2nd Army"
+    }
+   ],
+   "audiovisual": "False",
+   "dataControlGroup": {
+    "groupCd": "RDSC",
+    "groupId": "ou=NWCS-C,ou=groups"
+   },
+   "digitalObjects": [
+    {
+     "extractedText": "\nINDEX TO\nROUTE INTELLICENCE OVERLAYS\nROUTE INTELLICENCE\nE OF RIVER RHINE\nSHEWING ADJOINING SHEETS.\n2.12\nSECRET,\nSHEET\nSHEET\nOVERLAY E. OF R. RHINE\nB\nC\nPUBLISHEO\n02\nSMALL Be\nSHEET\nSHEET\nA\nD'\n20\nSHEET CC\nREF. G.S.G.S. 4416, SHEETS : N.I.N.2.P.P.R.\npublisHED\nTO BE PUBLISWED\nLIMBO\nBE\nSCALE: :100,000.\nSOURCES OF INFORMATION.\nis\nI.S.T.D. ROUTE INTELLICENCE REPORT $\nAIR PHOTO COVER BASIC\n400/ 1005\nLIMEO\nlas\nAREAS\n4051\nOVERLAYS\n72\nC.S.C.S. 4416 SHEETS\nSORTIE N°3\n400/1531 3001\nSHEETS 3609-12:3709 12\n400/897. 3028 to 3034/3112-25\n400/1707 3004. to\n3809-12:3909-12\n4006 to4036/4112- 20\n400/1999 3020\n16\nCIVILIAN 4 ARIT. INTERROGATION\n400/1036\n3051\n40\n\"\nREPORTS\n4082f04107/4444-77\nCHIEF ENCINEERS BRANCH\nSMALL Be\nMETTINGEN\nM.Q. SECOND ARMY (MAIN)\n2.18\nL.C.\nTREE LINGO\nLINED\nSCHUTTORF\nSALZBERGEN.\nRLY/RO Be\nL.C\nBENTHEIM.\nRLY/ROBR\nEN\nr\n22\nCULVERT\nLC\nTA\nSMALL BR\nFREE\nLINED\nLINED\nLL.C.\nREF\nRly/Rd\nc.\nc.\nL\nE\nN\nD\nSMALL BR\nTREE\nE\na\nREE\nCULVBRT.\n65\nRHEINE\nR.C\nIBBENBUREN.\nSMALL\n8,18\nR.14'\nROUTES\n86\nL.C.\n60\nROAD WIOTH (INFEET)\n08\nig\nBOTTLENECK (WIDTH INFEETIFCIVEN)\nRO/RLY\nRIV/RO.\nRd VVER\n8\nAO\nDIFFICULT ROAD JUNCTION\n07\n8.14\nRAILWAYS\nEN.I. N.2.\nLEVEL CROSSING\nH\nNEVENKIRCHEN\n2.12\nWATER OBSTACLES\nCULVERT\nP.I.\nP.2\nSMALL\nLL.C\n64\nRLY/RDT\nTREE\nSMALL\nTOTAL LENGTH OF BRIDGE FEET\nBR ON\nR.10\n(FEET)\n98\ne\nROAO CLASSIFICATION (TONS)\n04\ne.15\n.C\nBOILT UP AREA\nLIMIT OF AIR COVER\nSMALL BR\nLTREES\nOR CULVERT\n319\nSMALL BRS\nL.C\nCR CULVERT\nSMALL BR\nR.15\nSMALL\nBR\nL.C.\n9o\nL.C.\nSMALL BR. WETTRINGEN\n00\nL.A.\nde\nENGERI CH.\nIN\na\nR.14\nBLY/RD\nS.SMALL BR\nEMSDETTEN\nTREE ALINEO\nTREE LINED\nR.19°\n8.16\nSMALL BR\nSMALL BR\n8,0\nL.C\nL.C\n4/01\n97\nR.17\nINTERMITTA\nc.\nYITAM\nROAD PASSES UNDER\nLINCO\n220\nR\nBR.\nTRYES\nR 20\n54\nTREE LINED\nMETELEN\nR.24'.\nNEW ROAOS\n:\n(TREE LINED\nL.C.\n93.\n160\nNOT SHOWN ON\nR.18'-20\n22\n11100,000. SHEET. P.I.\nINDERMITTEN\nVN TH15 AREA\nR.14'\nSMALL\nBORGHORST\nc\nL.164\nINTER 20 ITENT TRANS\nRIMMALLER\nSMALL BA\n90\nSMALL BR.,\nCREVEN\nTREEL\n68\nRLY.BR\nR.17'\nLINDO\n1 20\nOVER\nI\n46.216\nFOOTBRIOG\nTREA\nLINED\ngee\n14\nc.\n86\n18\nLAER\n00\nSMALL BR\nR.17\nALTENBERG\n2.18\nWSMALL BR\nR\nOR COLVERT\nTREE\nTR12'\n35\nSMALL BR\nRis\n36\n:\n20\nTREE\nLINER\n20\nTREES Y\nR.15\nfor\nTREE\nR.15\nclui\nIf\nSA/MISC/3251\n1/3/40/519R. /3251",
+     "objectFileSize": 7820046,
+     "objectFilename": "RG_407_2ndArmy_Fldr19_scan904.jpg",
+     "objectId": "100384844",
+     "objectType": "Image (JPG)",
+     "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/cartographic/rg-407/3054040/RG_407_2ndArmy_Fldr19_scan904.jpg"
+    }
+   ],
+   "generalRecordsTypes": [
+    "Maps and Charts"
+   ],
+   "levelOfDescription": "item",
+   "localIdentifier": "2nd Army Folder 19 -Overlays",
+   "naId": 100384843,
+   "physicalOccurrences": [
+    {
+     "copyStatus": "Preservation-Reproduction-Reference",
+     "mediaOccurrences": [
+      {
+       "containerId": "Folder 19",
+       "generalMediaTypes": [
+        "Loose Sheets"
+       ],
+       "specificMediaType": "Paper"
+      }
+     ],
+     "referenceUnits": [
+      {
+       "address1": "National Archives at College Park",
+       "address2": "8601 Adelphi Road",
+       "city": "College Park",
+       "email": "carto@nara.gov",
+       "fax": "301-837-3622",
+       "mailCode": "RDSC",
+       "name": "National Archives at College Park - Cartographic",
+       "phone": "301-837-3200",
+       "postalCode": "20740-6001",
+       "state": "MD"
+      }
+     ]
+    }
+   ],
+   "recordType": "description",
+   "title": "Route Intelligence Overlay E Sheet C - River Rhine",
+   "useRestriction": {
+    "status": "Unrestricted"
+   }
+  },
+  "record_tag": [
+   {
+    "aiMachineGenerated": false,
+    "contribution": "route intelligence overlay e. of r. rhine",
+    "contributionId": "7bce66dc-374d-4420-9ceb-48c3291c584a",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-31 00:56:31",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 100384843,
+     "objectId": "100384844"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "sheet \"c\" ref. g.s., g.s. 4416 sheets : n.1. n.1. p.1. & p.2.",
+    "contributionId": "25e3cf26-de14-434d-a41a-fb888f488d09",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-31 00:57:37",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 100384843,
+     "objectId": "100384844"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "i.s.t.d. route intelligence report & overlays.",
+    "contributionId": "0ce354bd-dc6b-41ad-8e83-3a2394452771",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-31 01:13:00",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 100384843,
+     "objectId": "100384844"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "civilian & a.r.i.t. interrogation reports.",
+    "contributionId": "6a17dfcc-787c-42c1-a5a6-ea4fd69ddfa2",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-31 01:13:22",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 100384843,
+     "objectId": "100384844"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "sheet \"c\" ref. g.s., g.s. 4416",
+    "contributionId": "7c88b054-89a6-462f-87e9-c892a9664ed3",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-31 01:15:39",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 100384843,
+     "objectId": "100384844"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "sheets : n.1. n.1. p.1. & p.2.",
+    "contributionId": "92ab1990-fb4b-4eeb-a0dc-d8d17418fbb4",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-31 01:15:58",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 100384843,
+     "objectId": "100384844"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "sortie nos. 400/897. - 3028 to 3034/3112-25",
+    "contributionId": "fabfb0e6-07db-4f0e-9744-3df53cd8e2d0",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-31 01:16:23",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 100384843,
+     "objectId": "100384844"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "400/1036 - 3051 to 3078/3108 -70. 4082 to 4107/4144 -71",
+    "contributionId": "052ed280-45bc-4610-8550-45e86ab1fafc",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-31 01:17:28",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 100384843,
+     "objectId": "100384844"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "400/1005 - 3090 to 3071/3115 to 3143 4051 to 4090/4114 to 4167",
+    "contributionId": "290a3bbb-88c6-4feb-b676-9bdd212b133b",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-31 01:18:00",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 100384843,
+     "objectId": "100384844"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "400/1531 - 3001 to 3055/4001 to 4055",
+    "contributionId": "034ec6cb-f390-41a3-a7a4-cbdba2eb8601",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-31 01:18:19",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 100384843,
+     "objectId": "100384844"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "400/1707 - 3004 to 3060/4019 to 4078",
+    "contributionId": "72cd4c60-9f50-4bf9-92d1-212f261373c2",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-31 01:18:38",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 100384843,
+     "objectId": "100384844"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "400/1999 - 3020 to 3021/4020 to 4021",
+    "contributionId": "f801e927-5f8e-401a-ac2d-4fc967f19598",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-31 01:18:58",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 100384843,
+     "objectId": "100384844"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "chief engineers branch. h.q. second army (main)",
+    "contributionId": "3b0601a2-8194-44b1-975a-cbb944118021",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-31 01:19:28",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 100384843,
+     "objectId": "100384844"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "index to route intelligence overlays e. of river rhine shewing adjoining sheets.",
+    "contributionId": "a0c4a295-cc54-45a1-bbb6-06c0a71d8ca8",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-31 01:20:38",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 100384843,
+     "objectId": "100384844"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "sheet \"b\" published.",
+    "contributionId": "8f66e8dc-156f-485f-ad2a-3201f4e8f648",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-31 01:20:57",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 100384843,
+     "objectId": "100384844"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "sheet \"a\" published.",
+    "contributionId": "7ecb7b56-b3e4-457f-b2b0-508b00f3613b",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-31 01:21:11",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 100384843,
+     "objectId": "100384844"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "sheet \"c\"",
+    "contributionId": "ee4fe296-8e6c-4c8e-9164-5915e2e998e1",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-31 01:21:23",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 100384843,
+     "objectId": "100384844"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "sheet \"d\"to be published.",
+    "contributionId": "a13ad115-c374-4ee9-b6ee-8f0a76675df9",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-31 01:21:52",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 100384843,
+     "objectId": "100384844"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "wwmp4147-tg1",
+    "contributionId": "0a45a069-9a89-382e-8914-86fcc9dcd437",
+    "contributionType": "tag",
+    "contributor": {
+     "fullName": "NARA Citizen Archivist",
+     "naraStaff": true,
+     "userId": "53f5828d-d0b8-3f3a-982e-844a0ea3fb92",
+     "userName": "NARA Citizen Archivist"
+    },
+    "createdAt": "2019-04-17 19:29:06",
+    "recordType": "contribution",
+    "source": "naraStaff",
+    "target": {
+     "naId": 100384843
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "wowa2mp41-47",
+    "contributionId": "079d90b1-988e-3302-a23b-bab70b37abe2",
+    "contributionType": "tag",
+    "contributor": {
+     "fullName": "NARA Citizen Archivist",
+     "naraStaff": true,
+     "userId": "53f5828d-d0b8-3f3a-982e-844a0ea3fb92",
+     "userName": "NARA Citizen Archivist"
+    },
+    "createdAt": "2019-04-17 19:29:06",
+    "recordType": "contribution",
+    "source": "naraStaff",
+    "target": {
+     "naId": 100384843
+    }
+   }
+  ],
+  "metadata_tag": [
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 100384843,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.788101",
+    "uuid": "32cc582d-a289-43a0-9d15-002aa2b0279a"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 100384843,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.788522",
+    "uuid": "60050dc2-724d-476a-a2ee-f477742b5e55"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 100384843,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.792049",
+    "uuid": "09920f56-7fe3-4b38-b7a1-d9414a8a58e7"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 100384843,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.792467",
+    "uuid": "6263ac38-c9bf-454f-84c5-39df3598ae4d"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 100384843,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.793871",
+    "uuid": "668f3b30-8475-41f9-b9e6-c1417d902f19"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 100384843,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.793971",
+    "uuid": "219d04c6-467c-46a9-942c-75346afd712d"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 100384843,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.794378",
+    "uuid": "235230ca-151b-4a83-b8aa-31ec8847c1be"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 100384843,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.795181",
+    "uuid": "9ecdbe4e-d831-440e-89a8-15a7f044512e"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 100384843,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.795283",
+    "uuid": "70ddd916-a499-4312-b23d-877962c5f28c"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 100384843,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.795382",
+    "uuid": "e078f07d-4a98-407a-b672-25f940df1808"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 100384843,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.795480",
+    "uuid": "cc99127d-8605-40ee-b65c-7a326235ba6d"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 100384843,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.795579",
+    "uuid": "fdfdd930-cdea-4fe8-bd21-97b96530e5ce"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 100384843,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.795679",
+    "uuid": "1898e084-b499-4c9c-b4ad-7a9cc9ef6211"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 100384843,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.795794",
+    "uuid": "fdcb37d6-efbe-4a81-96b9-4c48063c5577"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 100384843,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.795899",
+    "uuid": "81f0c2fe-fd94-43ad-9203-7eaeef443553"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 100384843,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.796001",
+    "uuid": "34993971-e739-401e-8357-4d5ee311e367"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 100384843,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.796202",
+    "uuid": "32b4bd9c-b40d-4da1-a955-bd5dd0f67f74"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 100384843,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.796959",
+    "uuid": "0094e1b9-6559-4f72-9f95-9e61a922b7bc"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 100384843,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 12:18:18.170632",
+    "uuid": "b41b5e60-8f5b-4e16-88b6-f46ce16fdb61"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 100384843,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 12:18:18.170840",
+    "uuid": "0abf92de-6e5c-44d4-a53f-85fb768d9237"
+   }
+  ],
+  "_source_chunk": "descriptions/record-groups/rg_407/rg_407-337.jsonl"
+ },
+ {
+  "record": {
+   "accessRestriction": {
+    "status": "Unrestricted"
+   },
+   "ancestors": [
+    {
+     "distance": 3,
+     "inclusiveEndDate": {
+      "logicalDate": "1981-12-31",
+      "year": 1981
+     },
+     "inclusiveStartDate": {
+      "logicalDate": "1905-01-01",
+      "year": 1905
+     },
+     "levelOfDescription": "recordGroup",
+     "naId": 703,
+     "recordGroupNumber": 407,
+     "title": "Records of the Adjutant General's Office"
+    },
+    {
+     "creators": [
+      {
+       "abolishDate": {
+        "day": 18,
+        "logicalDate": "1947-09-18",
+        "month": 9,
+        "year": 1947
+       },
+       "authorityType": "organization",
+       "creatorType": "Most Recent",
+       "establishDate": {
+        "day": 4,
+        "logicalDate": "1907-03-04",
+        "month": 3,
+        "year": 1907
+       },
+       "heading": "War Department. The Adjutant General's Office. 3/4/1907-9/18/1947",
+       "naId": 10468382
+      }
+     ],
+     "distance": 2,
+     "inclusiveEndDate": {
+      "dateQualifier": "ca.",
+      "logicalDate": "1947-12-31",
+      "year": 1947
+     },
+     "inclusiveStartDate": {
+      "dateQualifier": "ca.",
+      "logicalDate": "1941-01-01",
+      "year": 1941
+     },
+     "levelOfDescription": "series",
+     "naId": 3054040,
+     "title": "World War II Records"
+    },
+    {
+     "distance": 1,
+     "levelOfDescription": "fileUnit",
+     "naId": 74003525,
+     "title": "2nd Army"
+    }
+   ],
+   "audiovisual": "False",
+   "dataControlGroup": {
+    "groupCd": "RDSC",
+    "groupId": "ou=NWCS-C,ou=groups"
+   },
+   "digitalObjects": [
+    {
+     "extractedText": "\nSheet 2 of 2\nCRANE\n3/8\nROOK\n1412\n322\n413\nROBIN\n460\n168,\n315\n461\n414\nT1452\n462\nT1449\n11453\n465\n75\n*\n310\n75\n1450\n309\nOWL\n3os\nDUCK\n307\n304;\nFAY\n/305\n73\n306\n67\nHUISSEN\n1242\n302\nLION\n1241\nCROW\n300\n71240\n301\nNo.\nE\nN\nAxis\n1236\nHOG\nHt\nNo.\nre\nN\nHt\nAxis\n1201\n7604 6577\n16\n135\n1239\n7183 7118\n9\n1235\njoone\n1202\n7632 6598\n10\n1234\n148\n1240\n7234 7191\n8\n135\n1238\nGOAT\n1203\n7664 6630\n10\n117\n1241\n7270 7230\n8\n135\nKCU4\n7364 6620\n11\n87\n1242\n7290 7258\n9\noono\ntiezy\n1205\n7400 6622\n58\n300\n7186 7174\n8\n17\nELST\n1237\n*1233\n-1231\n1206\n7395 6657\n10\n81\n301\n71407190\n8\n17\n1207\n7367 6659\n10\n107\n302\n7146 7250\n8\n67\n1208\naone\n303\n7090 7269\nconc\nRaj\nox\n1230\n7760 6642\n1232\n8\n1209\n304\n7112 7336\n109\n+\nFERRET\n7698 6660\n108\n1227\n1210\n7717 6678\n50\n305\n7135 7330\n8\n107\n1211\n7680 6676\n9\n97\n306\n8\n1228\n7230 7300\n62\n1212\n7660 6720\n9\n50\n307\n7136 7400\n8\n38\n1213\n7632 6763\n9\n55\n308\n7009 7439\n9\n90\nELEPHANT\n1224\n1214\n7686 6734\n10\n72\n309\n7058 7467\n9\n90\n6NWW\nGNWE\n11229\nFAWN\n1223\n1215\n7681 6781\n10\naono\n310\n7168 7510\n360\n1216\n7607 6797\n9\n52\n311\n7267 7476\n51\n6SWW\nGSWE\n1217\n7614 6846\n10\naono\n315\n7082 7578\n106\n1222\n1218\n7579 6832\n9\n52\n316\n7110 7660\n132\n1219\n7545 6870\n9\n52\n317\n7078 7653\n8\n20\n1226\n1220\n7551 6902\n9\n74\n318\n7035 7678\n20\nELK\n1221\n7510 6920\n9\n48\n1225\n319\n6942 7698\n10\n360\n1222\n7480 6980\n9\n30\n320\n6866 7690\n10\n345\n1223\n7440 7008\n9\n30\n321\n6817 7678\n1221\n10\n328\n1224\n7411 7026\n9\noono\n322\n67407637\n10\n330\nDOE\n1225\n7438 6954\n9\n25\nU,149\n6734 7550\n9\nconc\no\n1220\n1226\n7400 6972\n9\n20\n1450\n6725 7476\n8\n65\no\n1227\n7370 7065\n9\n45\n460\n6731 7596\n10\n335\n1228\n7336 7060\n9\n115\n461\n6685 7574\n10\n335\n1219\n1229\n7280 7020\n9\noono\n462\n6642 7549\n10\n335\n1230\n7440 7083\noono\n463\n6596 7524\n10\n335\n1217\n1231\n7415 7112\noono\n1452\n6654 7551\n10\nconc\nO\n1232\n7280 7070\noono\n1453\n6626 7533\n10\nO\n12:8\ncow\nconc\n1233\n7322 7114\n45\n413\n6694 7604\n335\n1234\n7330 7140\ncono\n4.68\n6640 7570\n10\n335\nsos\n1235\n7280 7145\n18\n414\n6592 7546\n10\n1216\n1235\n335\nBEAV\n7230 7160\n18\n412\n6663 7626\n15\ncone\nQ\n1237\n7251 7115\n20\n435\n16617 7609\n10\nconc\no\n1238\n7206 7145\n9\n20\nTi215\n12/3\n1214\nBEAR\n1212\n1210\n12 11\n1209\nPIG\n1205\n[203\n1204\nAPE.\n1202\nRHINO\n4201\n64\n67\nNIJMEGEN\n75\nSA/10/1679",
+     "objectFileSize": 5323421,
+     "objectFilename": "RG_407_2ndArmy_Fldr19_scan911.jpg",
+     "objectId": "100384846",
+     "objectType": "Image (JPG)",
+     "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/cartographic/rg-407/3054040/RG_407_2ndArmy_Fldr19_scan911.jpg"
+    }
+   ],
+   "generalRecordsTypes": [
+    "Maps and Charts"
+   ],
+   "levelOfDescription": "item",
+   "localIdentifier": "2nd Army Folder 19 -Overlays",
+   "naId": 100384845,
+   "physicalOccurrences": [
+    {
+     "copyStatus": "Preservation-Reproduction-Reference",
+     "mediaOccurrences": [
+      {
+       "containerId": "Folder 19",
+       "generalMediaTypes": [
+        "Loose Sheets"
+       ],
+       "specificMediaType": "Paper"
+      }
+     ],
+     "referenceUnits": [
+      {
+       "address1": "National Archives at College Park",
+       "address2": "8601 Adelphi Road",
+       "city": "College Park",
+       "email": "carto@nara.gov",
+       "fax": "301-837-3622",
+       "mailCode": "RDSC",
+       "name": "National Archives at College Park - Cartographic",
+       "phone": "301-837-3200",
+       "postalCode": "20740-6001",
+       "state": "MD"
+      }
+     ]
+    }
+   ],
+   "recordType": "description",
+   "title": "Unidentified Map",
+   "useRestriction": {
+    "status": "Unrestricted"
+   }
+  },
+  "record_comment": [
+   {
+    "aiMachineGenerated": false,
+    "contribution": "This looks like an artillery siting map for Highway 69 going from Nijmegen up to Arnhem.",
+    "contributionId": "a70f7097-ff9f-3151-b3d1-93a39d6ecb78",
+    "contributionSequence": 1,
+    "contributionType": "comment",
+    "contributor": {
+     "fullName": "undefined",
+     "naraStaff": false,
+     "userId": "98c15c40-f1ee-376c-8687-8e0e0a3effdb",
+     "userName": "imthemap"
+    },
+    "createdAt": "2022-03-12 20:23:10",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 100384845,
+     "objectId": "100384846",
+     "pageNum": 1
+    },
+    "updatedAt": "2022-03-12 20:23:10"
+   }
+  ],
+  "metadata_comment": [
+   {
+    "controlGroup": {
+     "indexName": "contributions-comments",
+     "naId": 100384845,
+     "type": "comments"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 12:13:57.950665",
+    "uuid": "a781012a-4ae8-43e5-80d0-e25d96b78be2"
+   }
+  ],
+  "record_tag": [
+   {
+    "aiMachineGenerated": false,
+    "contribution": "wwmp4147-tg1",
+    "contributionId": "76580fde-d76b-3335-a269-03086b788081",
+    "contributionType": "tag",
+    "contributor": {
+     "fullName": "NARA Citizen Archivist",
+     "naraStaff": true,
+     "userId": "53f5828d-d0b8-3f3a-982e-844a0ea3fb92",
+     "userName": "NARA Citizen Archivist"
+    },
+    "createdAt": "2019-04-17 19:29:06",
+    "recordType": "contribution",
+    "source": "naraStaff",
+    "target": {
+     "naId": 100384845
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "wowa2mp41-47",
+    "contributionId": "7b17d290-0801-3a60-a293-fd0674e3bf46",
+    "contributionType": "tag",
+    "contributor": {
+     "fullName": "NARA Citizen Archivist",
+     "naraStaff": true,
+     "userId": "53f5828d-d0b8-3f3a-982e-844a0ea3fb92",
+     "userName": "NARA Citizen Archivist"
+    },
+    "createdAt": "2019-04-17 19:29:06",
+    "recordType": "contribution",
+    "source": "naraStaff",
+    "target": {
+     "naId": 100384845
+    }
+   }
+  ],
+  "metadata_tag": [
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 100384845,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 12:18:18.170527",
+    "uuid": "e37199cb-3129-4499-831b-1a5dc2c90c96"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 100384845,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 12:18:18.170940",
+    "uuid": "29825fa1-9374-473a-ad45-f9329defd37e"
+   }
+  ],
+  "_source_chunk": "descriptions/record-groups/rg_407/rg_407-357.jsonl"
+ },
+ {
+  "record": {
+   "accessRestriction": {
+    "status": "Unrestricted"
+   },
+   "ancestors": [
+    {
+     "distance": 3,
+     "inclusiveEndDate": {
+      "logicalDate": "1981-12-31",
+      "year": 1981
+     },
+     "inclusiveStartDate": {
+      "logicalDate": "1905-01-01",
+      "year": 1905
+     },
+     "levelOfDescription": "recordGroup",
+     "naId": 703,
+     "recordGroupNumber": 407,
+     "title": "Records of the Adjutant General's Office"
+    },
+    {
+     "creators": [
+      {
+       "abolishDate": {
+        "day": 18,
+        "logicalDate": "1947-09-18",
+        "month": 9,
+        "year": 1947
+       },
+       "authorityType": "organization",
+       "creatorType": "Most Recent",
+       "establishDate": {
+        "day": 4,
+        "logicalDate": "1907-03-04",
+        "month": 3,
+        "year": 1907
+       },
+       "heading": "War Department. The Adjutant General's Office. 3/4/1907-9/18/1947",
+       "naId": 10468382
+      }
+     ],
+     "distance": 2,
+     "inclusiveEndDate": {
+      "dateQualifier": "ca.",
+      "logicalDate": "1947-12-31",
+      "year": 1947
+     },
+     "inclusiveStartDate": {
+      "dateQualifier": "ca.",
+      "logicalDate": "1941-01-01",
+      "year": 1941
+     },
+     "levelOfDescription": "series",
+     "naId": 3054040,
+     "title": "World War II Records"
+    },
+    {
+     "distance": 1,
+     "levelOfDescription": "fileUnit",
+     "naId": 74003525,
+     "title": "2nd Army"
+    }
+   ],
+   "audiovisual": "False",
+   "dataControlGroup": {
+    "groupCd": "RDSC",
+    "groupId": "ou=NWCS-C,ou=groups"
+   },
+   "digitalObjects": [
+    {
+     "extractedText": "\nRASIHIGHLAND DIVISION\nTRACE P\nSECRET\nin sp of\nOP \"COLLIN\nI Phase \"SPADE\"\nIII Phase THUNDER\"\nTask Coords\n506\n4354\n3849\n514\n4238\n3725\n39\n525\n4236\n3856\n533\n4341\n3767\n38\n1540\n1542\n1541\n11539\n1544\nFIJI\n1537 11538\n516\nSHETLAND\n1536\n1533\n15ol\n526\n525\n515\n1545\n+\n41\n1546\nPERIM\nIISoS\nBAHAMA\n534\nSc7\n1534\n11506\n521\nRATHLIN\n1532\nTrisio\n501\n+1502\n527\n1543\n38\nBALI\n518\nSII\n5o2\nISII\n+1507\n522\n519,\n535\n1547\n1531\n,1529\n+\n1'503\n523\nSo8\n533\n1512\n529/\n520\n504\n1530\n1527\n11508\n528\n503\n1548\n1528\n+1509\n524\n5141\nAZORES\nSoS\n1513\n539\n509\n513\n37\nFORMOSA\nSARK\n532\n538\nSio\n53)\n1549\n1514\n540\nTIMOR\nS39\nBORNEO\n44\n15161\n+536\n1550\n[1517\n537\n+1523\ntisis\n1522\n11524\n15261\nCYPRUS\n34\n1.1519\n1525\nMALTA\nRef Map 1:25000 Sheet No 18NW\n1520\n37\n+\n1152\nTask\nCo.ords\nTask\nCo.ords\n1507\n3905\n3647\n1526\n4018\n3429\n1515\n3804\n3487\n1529\n3826\n3621\n1520\n39:0\n3356\n1543\n3733\n3662\nRef Map 1:25000 Sheet No 18 NW\nII Phase HEARTS DIAMONDS & CLUBS\nJERSEY 1598 1000\nTask\nCo-ords\n553\n4186\n3819\n1595\n15% 4597\n573\n4140\n3680\n581\n4079\n3800\n38\n591\n3983\n3899\n596\n3918\n3969\n459*\n39\n1593\n4592 1591)\n|586\nFAROE\n585\n1587\nORKNEY\nSKYE\n1561\n1554\n43\n|`588\nSCILLY\nsoft\n584\n+583\n57°1/562\n1553\nt2so\n5821\nfactor\nSSS|\n38\n,570\n563\n1556\nSSo\n580\n551\n590\n/579\n+\n1571\n564 LEWIS\n5771\nJAMAICA\n1565\n552\nRef Map 1:25000 Sheet No 18 NW\n576\n567\nARBAN\n572\n575\n2503\n568\nt560\nICELAND",
+     "objectFileSize": 1796467,
+     "objectFilename": "RG_407_2ndArmy_Fldr19_scan914.jpg",
+     "objectId": "100384852",
+     "objectType": "Image (JPG)",
+     "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/cartographic/rg-407/3054040/RG_407_2ndArmy_Fldr19_scan914.jpg"
+    }
+   ],
+   "generalRecordsTypes": [
+    "Maps and Charts"
+   ],
+   "levelOfDescription": "item",
+   "localIdentifier": "2nd Army Folder 19 -Overlays",
+   "naId": 100384851,
+   "physicalOccurrences": [
+    {
+     "copyStatus": "Preservation-Reproduction-Reference",
+     "mediaOccurrences": [
+      {
+       "containerId": "Folder 19",
+       "generalMediaTypes": [
+        "Loose Sheets"
+       ],
+       "specificMediaType": "Paper"
+      }
+     ],
+     "referenceUnits": [
+      {
+       "address1": "National Archives at College Park",
+       "address2": "8601 Adelphi Road",
+       "city": "College Park",
+       "email": "carto@nara.gov",
+       "fax": "301-837-3622",
+       "mailCode": "RDSC",
+       "name": "National Archives at College Park - Cartographic",
+       "phone": "301-837-3200",
+       "postalCode": "20740-6001",
+       "state": "MD"
+      }
+     ]
+    }
+   ],
+   "recordType": "description",
+   "title": "Royal Artillery 51 Highland Divison Operation \"Collin\"",
+   "useRestriction": {
+    "status": "Unrestricted"
+   }
+  },
+  "record_tag": [
+   {
+    "aiMachineGenerated": false,
+    "contribution": "wwmp4147-tg1",
+    "contributionId": "cdba072a-b7f8-3f2d-8517-b7d5b06e7859",
+    "contributionType": "tag",
+    "contributor": {
+     "fullName": "NARA Citizen Archivist",
+     "naraStaff": true,
+     "userId": "53f5828d-d0b8-3f3a-982e-844a0ea3fb92",
+     "userName": "NARA Citizen Archivist"
+    },
+    "createdAt": "2019-04-17 19:29:06",
+    "recordType": "contribution",
+    "source": "naraStaff",
+    "target": {
+     "naId": 100384851
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "wowa2mp41-47",
+    "contributionId": "454045c5-2b25-3906-8120-6b2b95af04cc",
+    "contributionType": "tag",
+    "contributor": {
+     "fullName": "NARA Citizen Archivist",
+     "naraStaff": true,
+     "userId": "53f5828d-d0b8-3f3a-982e-844a0ea3fb92",
+     "userName": "NARA Citizen Archivist"
+    },
+    "createdAt": "2019-04-17 19:29:06",
+    "recordType": "contribution",
+    "source": "naraStaff",
+    "target": {
+     "naId": 100384851
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "ra 51 highland division in sp of op \"collin\"",
+    "contributionId": "9e234568-892f-4e3e-b9f0-65aa521860db",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-31 01:45:49",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 100384851,
+     "objectId": "100384852"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "trace \"p\" secret",
+    "contributionId": "a610eabc-7a60-4ba8-829f-5e6396d2524e",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-31 01:46:03",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 100384851,
+     "objectId": "100384852"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "i phase \"spade\"",
+    "contributionId": "d0c36247-333f-40d6-b228-50f1da21be0a",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-31 01:46:17",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 100384851,
+     "objectId": "100384852"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "task 506 coordinates 4354, 3849",
+    "contributionId": "1b2f6afe-30c3-4ea1-bbc0-a71c40f82ff1",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-31 01:46:32",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 100384851,
+     "objectId": "100384852"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "task 514 coordinates 4238, 3725",
+    "contributionId": "ee79f236-711b-4672-8b33-c1e6d914a45a",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-31 01:46:45",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 100384851,
+     "objectId": "100384852"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "task 525 coordinates 4236, 3856",
+    "contributionId": "7ed41485-ba03-4b42-a7c1-723dc86f0014",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-31 01:47:00",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 100384851,
+     "objectId": "100384852"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "task 533 coordinates 4341, 3767",
+    "contributionId": "0f1e8d76-9c3c-4390-9a40-78d24f4bf4ec",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-31 01:47:14",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 100384851,
+     "objectId": "100384852"
+    }
+   }
+  ],
+  "metadata_tag": [
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 100384851,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 12:18:18.170319",
+    "uuid": "d0d0aafa-e3ef-4583-b24a-8d9f2161f4bf"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 100384851,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 12:18:18.170426",
+    "uuid": "6e7cb4f1-65bf-467d-b896-5fde2ebd9126"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 100384851,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.804347",
+    "uuid": "775829eb-5e1d-4a42-9307-1d700f270e80"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 100384851,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.804447",
+    "uuid": "b6290bb4-a6ff-4a29-9ec3-cf480c8dabcf"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 100384851,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.804546",
+    "uuid": "55407102-9333-43eb-b36c-07f92b92abb4"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 100384851,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.804646",
+    "uuid": "d47bb6b4-dac1-4f6e-bc53-62650532534f"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 100384851,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.804748",
+    "uuid": "a91743d1-5895-4512-b781-52b4e4032734"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 100384851,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.804849",
+    "uuid": "a6b3c391-f17e-4b82-8f29-d6a44d414fe5"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 100384851,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.804948",
+    "uuid": "f059b0e9-b999-42c9-a75b-dc2fbc09946b"
+   }
+  ],
+  "_source_chunk": "descriptions/record-groups/rg_407/rg_407-10.jsonl"
+ },
+ {
+  "record": {
+   "accessRestriction": {
+    "status": "Unrestricted"
+   },
+   "ancestors": [
+    {
+     "distance": 3,
+     "inclusiveEndDate": {
+      "logicalDate": "1981-12-31",
+      "year": 1981
+     },
+     "inclusiveStartDate": {
+      "logicalDate": "1905-01-01",
+      "year": 1905
+     },
+     "levelOfDescription": "recordGroup",
+     "naId": 703,
+     "recordGroupNumber": 407,
+     "title": "Records of the Adjutant General's Office"
+    },
+    {
+     "creators": [
+      {
+       "abolishDate": {
+        "day": 18,
+        "logicalDate": "1947-09-18",
+        "month": 9,
+        "year": 1947
+       },
+       "authorityType": "organization",
+       "creatorType": "Most Recent",
+       "establishDate": {
+        "day": 4,
+        "logicalDate": "1907-03-04",
+        "month": 3,
+        "year": 1907
+       },
+       "heading": "War Department. The Adjutant General's Office. 3/4/1907-9/18/1947",
+       "naId": 10468382
+      }
+     ],
+     "distance": 2,
+     "inclusiveEndDate": {
+      "dateQualifier": "ca.",
+      "logicalDate": "1947-12-31",
+      "year": 1947
+     },
+     "inclusiveStartDate": {
+      "dateQualifier": "ca.",
+      "logicalDate": "1941-01-01",
+      "year": 1941
+     },
+     "levelOfDescription": "series",
+     "naId": 3054040,
+     "title": "World War II Records"
+    },
+    {
+     "distance": 1,
+     "levelOfDescription": "fileUnit",
+     "naId": 74003525,
+     "title": "2nd Army"
+    }
+   ],
+   "audiovisual": "False",
+   "dataControlGroup": {
+    "groupCd": "RDSC",
+    "groupId": "ou=NWCS-C,ou=groups"
+   },
+   "digitalObjects": [
+    {
+     "objectFileSize": 1234,
+     "objectFilename": "74003525_001_001.jpg",
+     "objectId": "225274181",
+     "objectType": "Image (JPG)",
+     "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/cartographic/rg-407/3054040/Batch0002/74003525_001_001.jpg"
+    },
+    {
+     "objectFileSize": 1234,
+     "objectFilename": "74003525_001_002.jpg",
+     "objectId": "225274182",
+     "objectType": "Image (JPG)",
+     "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/cartographic/rg-407/3054040/Batch0002/74003525_001_002.jpg"
+    }
+   ],
+   "generalRecordsTypes": [
+    "Maps and Charts"
+   ],
+   "levelOfDescription": "item",
+   "localIdentifier": "2nd Army Folder 19 -Overlays",
+   "naId": 225274180,
+   "physicalOccurrences": [
+    {
+     "copyStatus": "Preservation-Reproduction-Reference",
+     "mediaOccurrences": [
+      {
+       "containerId": "Folder 19",
+       "generalMediaTypes": [
+        "Loose Sheets"
+       ],
+       "specificMediaType": "Paper"
+      }
+     ],
+     "referenceUnits": [
+      {
+       "address1": "National Archives at College Park",
+       "address2": "8601 Adelphi Road",
+       "city": "College Park",
+       "email": "carto@nara.gov",
+       "fax": "301-837-3622",
+       "mailCode": "RDSC",
+       "name": "National Archives at College Park - Cartographic",
+       "phone": "301-837-3200",
+       "postalCode": "20740-6001",
+       "state": "MD"
+      }
+     ]
+    }
+   ],
+   "recordType": "description",
+   "title": "Route Intelligence Overlay Sheet N - Kiel Canal",
+   "useRestriction": {
+    "status": "Unrestricted"
+   }
+  },
+  "_source_chunk": "descriptions/record-groups/rg_407/rg_407-267.jsonl"
+ },
+ {
+  "record": {
+   "accessRestriction": {
+    "status": "Unrestricted"
+   },
+   "ancestors": [
+    {
+     "distance": 3,
+     "inclusiveEndDate": {
+      "logicalDate": "1981-12-31",
+      "year": 1981
+     },
+     "inclusiveStartDate": {
+      "logicalDate": "1905-01-01",
+      "year": 1905
+     },
+     "levelOfDescription": "recordGroup",
+     "naId": 703,
+     "recordGroupNumber": 407,
+     "title": "Records of the Adjutant General's Office"
+    },
+    {
+     "creators": [
+      {
+       "abolishDate": {
+        "day": 18,
+        "logicalDate": "1947-09-18",
+        "month": 9,
+        "year": 1947
+       },
+       "authorityType": "organization",
+       "creatorType": "Most Recent",
+       "establishDate": {
+        "day": 4,
+        "logicalDate": "1907-03-04",
+        "month": 3,
+        "year": 1907
+       },
+       "heading": "War Department. The Adjutant General's Office. 3/4/1907-9/18/1947",
+       "naId": 10468382
+      }
+     ],
+     "distance": 2,
+     "inclusiveEndDate": {
+      "dateQualifier": "ca.",
+      "logicalDate": "1947-12-31",
+      "year": 1947
+     },
+     "inclusiveStartDate": {
+      "dateQualifier": "ca.",
+      "logicalDate": "1941-01-01",
+      "year": 1941
+     },
+     "levelOfDescription": "series",
+     "naId": 3054040,
+     "title": "World War II Records"
+    },
+    {
+     "distance": 1,
+     "levelOfDescription": "fileUnit",
+     "naId": 74003525,
+     "title": "2nd Army"
+    }
+   ],
+   "audiovisual": "False",
+   "dataControlGroup": {
+    "groupCd": "RDSC",
+    "groupId": "ou=NWCS-C,ou=groups"
+   },
+   "digitalObjects": [
+    {
+     "objectFileSize": 1234,
+     "objectFilename": "74003525_002_001.jpg",
+     "objectId": "225274184",
+     "objectType": "Image (JPG)",
+     "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/cartographic/rg-407/3054040/Batch0002/74003525_002_001.jpg"
+    },
+    {
+     "objectFileSize": 1234,
+     "objectFilename": "74003525_002_002.jpg",
+     "objectId": "225274185",
+     "objectType": "Image (JPG)",
+     "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/cartographic/rg-407/3054040/Batch0002/74003525_002_002.jpg"
+    }
+   ],
+   "generalRecordsTypes": [
+    "Maps and Charts"
+   ],
+   "levelOfDescription": "item",
+   "localIdentifier": "2nd Army Folder 19 -Overlays",
+   "naId": 225274183,
+   "physicalOccurrences": [
+    {
+     "copyStatus": "Preservation-Reproduction-Reference",
+     "mediaOccurrences": [
+      {
+       "containerId": "Folder 19",
+       "generalMediaTypes": [
+        "Loose Sheets"
+       ],
+       "specificMediaType": "Paper"
+      }
+     ],
+     "referenceUnits": [
+      {
+       "address1": "National Archives at College Park",
+       "address2": "8601 Adelphi Road",
+       "city": "College Park",
+       "email": "carto@nara.gov",
+       "fax": "301-837-3622",
+       "mailCode": "RDSC",
+       "name": "National Archives at College Park - Cartographic",
+       "phone": "301-837-3200",
+       "postalCode": "20740-6001",
+       "state": "MD"
+      }
+     ]
+    }
+   ],
+   "recordType": "description",
+   "title": "Route Intelligence Overlay Sheet M - Kiel Canal",
+   "useRestriction": {
+    "status": "Unrestricted"
+   }
+  },
+  "_source_chunk": "descriptions/record-groups/rg_407/rg_407-153.jsonl"
+ },
+ {
+  "record": {
+   "accessRestriction": {
+    "status": "Unrestricted"
+   },
+   "ancestors": [
+    {
+     "distance": 3,
+     "inclusiveEndDate": {
+      "logicalDate": "1981-12-31",
+      "year": 1981
+     },
+     "inclusiveStartDate": {
+      "logicalDate": "1905-01-01",
+      "year": 1905
+     },
+     "levelOfDescription": "recordGroup",
+     "naId": 703,
+     "recordGroupNumber": 407,
+     "title": "Records of the Adjutant General's Office"
+    },
+    {
+     "creators": [
+      {
+       "abolishDate": {
+        "day": 18,
+        "logicalDate": "1947-09-18",
+        "month": 9,
+        "year": 1947
+       },
+       "authorityType": "organization",
+       "creatorType": "Most Recent",
+       "establishDate": {
+        "day": 4,
+        "logicalDate": "1907-03-04",
+        "month": 3,
+        "year": 1907
+       },
+       "heading": "War Department. The Adjutant General's Office. 3/4/1907-9/18/1947",
+       "naId": 10468382
+      }
+     ],
+     "distance": 2,
+     "inclusiveEndDate": {
+      "dateQualifier": "ca.",
+      "logicalDate": "1947-12-31",
+      "year": 1947
+     },
+     "inclusiveStartDate": {
+      "dateQualifier": "ca.",
+      "logicalDate": "1941-01-01",
+      "year": 1941
+     },
+     "levelOfDescription": "series",
+     "naId": 3054040,
+     "title": "World War II Records"
+    },
+    {
+     "distance": 1,
+     "levelOfDescription": "fileUnit",
+     "naId": 74003525,
+     "title": "2nd Army"
+    }
+   ],
+   "audiovisual": "False",
+   "dataControlGroup": {
+    "groupCd": "RDSC",
+    "groupId": "ou=NWCS-C,ou=groups"
+   },
+   "digitalObjects": [
+    {
+     "objectFileSize": 1234,
+     "objectFilename": "74003525_003_001.jpg",
+     "objectId": "225274187",
+     "objectType": "Image (JPG)",
+     "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/cartographic/rg-407/3054040/Batch0002/74003525_003_001.jpg"
+    },
+    {
+     "objectFileSize": 1234,
+     "objectFilename": "74003525_003_002.jpg",
+     "objectId": "225274188",
+     "objectType": "Image (JPG)",
+     "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/cartographic/rg-407/3054040/Batch0002/74003525_003_002.jpg"
+    }
+   ],
+   "generalRecordsTypes": [
+    "Maps and Charts"
+   ],
+   "levelOfDescription": "item",
+   "localIdentifier": "2nd Army Folder 19 -Overlays",
+   "naId": 225274186,
+   "physicalOccurrences": [
+    {
+     "copyStatus": "Preservation-Reproduction-Reference",
+     "mediaOccurrences": [
+      {
+       "containerId": "Folder 19",
+       "generalMediaTypes": [
+        "Loose Sheets"
+       ],
+       "specificMediaType": "Paper"
+      }
+     ],
+     "referenceUnits": [
+      {
+       "address1": "National Archives at College Park",
+       "address2": "8601 Adelphi Road",
+       "city": "College Park",
+       "email": "carto@nara.gov",
+       "fax": "301-837-3622",
+       "mailCode": "RDSC",
+       "name": "National Archives at College Park - Cartographic",
+       "phone": "301-837-3200",
+       "postalCode": "20740-6001",
+       "state": "MD"
+      }
+     ]
+    }
+   ],
+   "recordType": "description",
+   "title": "Route Intelligence Overlay Sheet L - Elbe Trave Canal",
+   "useRestriction": {
+    "status": "Unrestricted"
+   }
+  },
+  "_source_chunk": "descriptions/record-groups/rg_407/rg_407-272.jsonl"
+ },
+ {
+  "record": {
+   "accessRestriction": {
+    "status": "Unrestricted"
+   },
+   "ancestors": [
+    {
+     "distance": 3,
+     "inclusiveEndDate": {
+      "logicalDate": "1981-12-31",
+      "year": 1981
+     },
+     "inclusiveStartDate": {
+      "logicalDate": "1905-01-01",
+      "year": 1905
+     },
+     "levelOfDescription": "recordGroup",
+     "naId": 703,
+     "recordGroupNumber": 407,
+     "title": "Records of the Adjutant General's Office"
+    },
+    {
+     "creators": [
+      {
+       "abolishDate": {
+        "day": 18,
+        "logicalDate": "1947-09-18",
+        "month": 9,
+        "year": 1947
+       },
+       "authorityType": "organization",
+       "creatorType": "Most Recent",
+       "establishDate": {
+        "day": 4,
+        "logicalDate": "1907-03-04",
+        "month": 3,
+        "year": 1907
+       },
+       "heading": "War Department. The Adjutant General's Office. 3/4/1907-9/18/1947",
+       "naId": 10468382
+      }
+     ],
+     "distance": 2,
+     "inclusiveEndDate": {
+      "dateQualifier": "ca.",
+      "logicalDate": "1947-12-31",
+      "year": 1947
+     },
+     "inclusiveStartDate": {
+      "dateQualifier": "ca.",
+      "logicalDate": "1941-01-01",
+      "year": 1941
+     },
+     "levelOfDescription": "series",
+     "naId": 3054040,
+     "title": "World War II Records"
+    },
+    {
+     "distance": 1,
+     "levelOfDescription": "fileUnit",
+     "naId": 74003525,
+     "title": "2nd Army"
+    }
+   ],
+   "audiovisual": "False",
+   "dataControlGroup": {
+    "groupCd": "RDSC",
+    "groupId": "ou=NWCS-C,ou=groups"
+   },
+   "digitalObjects": [
+    {
+     "objectFileSize": 1234,
+     "objectFilename": "74003525_004_001.jpg",
+     "objectId": "225274190",
+     "objectType": "Image (JPG)",
+     "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/cartographic/rg-407/3054040/Batch0002/74003525_004_001.jpg"
+    },
+    {
+     "objectFileSize": 1234,
+     "objectFilename": "74003525_004_002.jpg",
+     "objectId": "225274191",
+     "objectType": "Image (JPG)",
+     "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/cartographic/rg-407/3054040/Batch0002/74003525_004_002.jpg"
+    }
+   ],
+   "generalRecordsTypes": [
+    "Maps and Charts"
+   ],
+   "levelOfDescription": "item",
+   "localIdentifier": "2nd Army Folder 19 -Overlays",
+   "naId": 225274189,
+   "physicalOccurrences": [
+    {
+     "copyStatus": "Preservation-Reproduction-Reference",
+     "mediaOccurrences": [
+      {
+       "containerId": "Folder 19",
+       "generalMediaTypes": [
+        "Loose Sheets"
+       ],
+       "specificMediaType": "Paper"
+      }
+     ],
+     "referenceUnits": [
+      {
+       "address1": "National Archives at College Park",
+       "address2": "8601 Adelphi Road",
+       "city": "College Park",
+       "email": "carto@nara.gov",
+       "fax": "301-837-3622",
+       "mailCode": "RDSC",
+       "name": "National Archives at College Park - Cartographic",
+       "phone": "301-837-3200",
+       "postalCode": "20740-6001",
+       "state": "MD"
+      }
+     ]
+    }
+   ],
+   "recordType": "description",
+   "title": "Route Intelligence Overlay Sheet K - Elbe Trave Canal",
+   "useRestriction": {
+    "status": "Unrestricted"
+   }
+  },
+  "_source_chunk": "descriptions/record-groups/rg_407/rg_407-310.jsonl"
+ },
+ {
+  "record": {
+   "accessRestriction": {
+    "status": "Unrestricted"
+   },
+   "ancestors": [
+    {
+     "distance": 3,
+     "inclusiveEndDate": {
+      "logicalDate": "1981-12-31",
+      "year": 1981
+     },
+     "inclusiveStartDate": {
+      "logicalDate": "1905-01-01",
+      "year": 1905
+     },
+     "levelOfDescription": "recordGroup",
+     "naId": 703,
+     "recordGroupNumber": 407,
+     "title": "Records of the Adjutant General's Office"
+    },
+    {
+     "creators": [
+      {
+       "abolishDate": {
+        "day": 18,
+        "logicalDate": "1947-09-18",
+        "month": 9,
+        "year": 1947
+       },
+       "authorityType": "organization",
+       "creatorType": "Most Recent",
+       "establishDate": {
+        "day": 4,
+        "logicalDate": "1907-03-04",
+        "month": 3,
+        "year": 1907
+       },
+       "heading": "War Department. The Adjutant General's Office. 3/4/1907-9/18/1947",
+       "naId": 10468382
+      }
+     ],
+     "distance": 2,
+     "inclusiveEndDate": {
+      "dateQualifier": "ca.",
+      "logicalDate": "1947-12-31",
+      "year": 1947
+     },
+     "inclusiveStartDate": {
+      "dateQualifier": "ca.",
+      "logicalDate": "1941-01-01",
+      "year": 1941
+     },
+     "levelOfDescription": "series",
+     "naId": 3054040,
+     "title": "World War II Records"
+    },
+    {
+     "distance": 1,
+     "levelOfDescription": "fileUnit",
+     "naId": 74003525,
+     "title": "2nd Army"
+    }
+   ],
+   "audiovisual": "False",
+   "dataControlGroup": {
+    "groupCd": "RDSC",
+    "groupId": "ou=NWCS-C,ou=groups"
+   },
+   "digitalObjects": [
+    {
+     "objectFileSize": 1234,
+     "objectFilename": "RG_407_2ndArmy_Fldr19_scan903.jpg",
+     "objectId": "225275023",
+     "objectType": "Image (JPG)",
+     "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/cartographic/rg-407/3054040/Batch0003/RG_407_2ndArmy_Fldr19_scan903.jpg"
+    }
+   ],
+   "generalRecordsTypes": [
+    "Maps and Charts"
+   ],
+   "levelOfDescription": "item",
+   "localIdentifier": "2nd Army Folder 19 -Overlays",
+   "naId": 225275022,
+   "physicalOccurrences": [
+    {
+     "copyStatus": "Preservation-Reproduction-Reference",
+     "mediaOccurrences": [
+      {
+       "containerId": "Folder 19",
+       "generalMediaTypes": [
+        "Loose Sheets"
+       ],
+       "specificMediaType": "Paper"
+      }
+     ],
+     "referenceUnits": [
+      {
+       "address1": "National Archives at College Park",
+       "address2": "8601 Adelphi Road",
+       "city": "College Park",
+       "email": "carto@nara.gov",
+       "fax": "301-837-3622",
+       "mailCode": "RDSC",
+       "name": "National Archives at College Park - Cartographic",
+       "phone": "301-837-3200",
+       "postalCode": "20740-6001",
+       "state": "MD"
+      }
+     ]
+    }
+   ],
+   "recordType": "description",
+   "title": "Route Intelligence Overlay Sheet G - River Weser",
+   "useRestriction": {
+    "status": "Unrestricted"
+   }
+  },
+  "_source_chunk": "descriptions/record-groups/rg_407/rg_407-72.jsonl"
+ },
+ {
+  "record": {
+   "accessRestriction": {
+    "status": "Unrestricted"
+   },
+   "ancestors": [
+    {
+     "distance": 3,
+     "inclusiveEndDate": {
+      "logicalDate": "1981-12-31",
+      "year": 1981
+     },
+     "inclusiveStartDate": {
+      "logicalDate": "1905-01-01",
+      "year": 1905
+     },
+     "levelOfDescription": "recordGroup",
+     "naId": 703,
+     "recordGroupNumber": 407,
+     "title": "Records of the Adjutant General's Office"
+    },
+    {
+     "creators": [
+      {
+       "abolishDate": {
+        "day": 18,
+        "logicalDate": "1947-09-18",
+        "month": 9,
+        "year": 1947
+       },
+       "authorityType": "organization",
+       "creatorType": "Most Recent",
+       "establishDate": {
+        "day": 4,
+        "logicalDate": "1907-03-04",
+        "month": 3,
+        "year": 1907
+       },
+       "heading": "War Department. The Adjutant General's Office. 3/4/1907-9/18/1947",
+       "naId": 10468382
+      }
+     ],
+     "distance": 2,
+     "inclusiveEndDate": {
+      "dateQualifier": "ca.",
+      "logicalDate": "1947-12-31",
+      "year": 1947
+     },
+     "inclusiveStartDate": {
+      "dateQualifier": "ca.",
+      "logicalDate": "1941-01-01",
+      "year": 1941
+     },
+     "levelOfDescription": "series",
+     "naId": 3054040,
+     "title": "World War II Records"
+    },
+    {
+     "distance": 1,
+     "levelOfDescription": "fileUnit",
+     "naId": 74003525,
+     "title": "2nd Army"
+    }
+   ],
+   "audiovisual": "False",
+   "dataControlGroup": {
+    "groupCd": "RDSC",
+    "groupId": "ou=NWCS-C,ou=groups"
+   },
+   "digitalObjects": [
+    {
+     "objectFileSize": 1234,
+     "objectFilename": "RG_407_2ndArmy_Fldr19_scan904.jpg",
+     "objectId": "225275025",
+     "objectType": "Image (JPG)",
+     "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/cartographic/rg-407/3054040/Batch0003/RG_407_2ndArmy_Fldr19_scan904.jpg"
+    }
+   ],
+   "generalRecordsTypes": [
+    "Maps and Charts"
+   ],
+   "levelOfDescription": "item",
+   "localIdentifier": "2nd Army Folder 19 -Overlays",
+   "naId": 225275024,
+   "physicalOccurrences": [
+    {
+     "copyStatus": "Preservation-Reproduction-Reference",
+     "mediaOccurrences": [
+      {
+       "containerId": "Folder 19",
+       "generalMediaTypes": [
+        "Loose Sheets"
+       ],
+       "specificMediaType": "Paper"
+      }
+     ],
+     "referenceUnits": [
+      {
+       "address1": "National Archives at College Park",
+       "address2": "8601 Adelphi Road",
+       "city": "College Park",
+       "email": "carto@nara.gov",
+       "fax": "301-837-3622",
+       "mailCode": "RDSC",
+       "name": "National Archives at College Park - Cartographic",
+       "phone": "301-837-3200",
+       "postalCode": "20740-6001",
+       "state": "MD"
+      }
+     ]
+    }
+   ],
+   "recordType": "description",
+   "title": "Route Intelligence Overlay E Sheet C - River Rhine",
+   "useRestriction": {
+    "status": "Unrestricted"
+   }
+  },
+  "record_tag": [
+   {
+    "aiMachineGenerated": false,
+    "contribution": "river rhine",
+    "contributionId": "0479acea-5cc8-4f6a-85fc-d0d3fab46b06",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-30 20:56:33",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 225275024,
+     "objectId": "225275025"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "sheet \"c",
+    "contributionId": "c3161faf-c137-4796-a3f7-11cd6bf24993",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-30 20:56:39",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 225275024,
+     "objectId": "225275025"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "overlay east of river rhine",
+    "contributionId": "d261ee38-0d95-48f5-b10f-8f043a00737d",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-30 20:56:58",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 225275024,
+     "objectId": "225275025"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "i.s.t.d. route intelligence report",
+    "contributionId": "f86c06ca-8c31-4c7b-bf36-337e8826cfb8",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-30 21:07:45",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 225275024,
+     "objectId": "225275025"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "g.s.g.s. 4416",
+    "contributionId": "ea859c00-555e-4119-809c-4d253beb7cd1",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-30 21:07:58",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 225275024,
+     "objectId": "225275025"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "g.s.g.s. 4414",
+    "contributionId": "7b8b30bf-f168-451a-a67c-2c004812d8a0",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-30 21:08:18",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 225275024,
+     "objectId": "225275025"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "a.r.i.t. interrogation reports",
+    "contributionId": "a9fa7923-2237-46d1-8b44-1c171c105442",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-30 21:08:37",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 225275024,
+     "objectId": "225275025"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "civilian interrogation reports",
+    "contributionId": "8f213dbc-3997-481a-8a1b-fa87f6bcb792",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-30 21:08:51",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 225275024,
+     "objectId": "225275025"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "air photo cover.",
+    "contributionId": "e138cec8-c663-4612-a47c-151c277cd3b9",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-30 21:15:36",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 225275024,
+     "objectId": "225275025"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "areas. \"a.\"",
+    "contributionId": "57db03f5-45d4-42c8-a1f5-07c5ce545806",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-30 21:16:11",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 225275024,
+     "objectId": "225275025"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "areas. \"b.\"",
+    "contributionId": "15287cfa-3fb7-4a79-b982-77aedce2dd4a",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-30 21:16:18",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 225275024,
+     "objectId": "225275025"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "areas. \"c.\"",
+    "contributionId": "debebc69-376b-469c-9d74-e360984e866c",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-30 21:16:27",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 225275024,
+     "objectId": "225275025"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "sortie nos.",
+    "contributionId": "658cd604-b1e1-4f68-a9c4-eaae275e74c6",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-30 21:16:40",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 225275024,
+     "objectId": "225275025"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "chief engineers branch",
+    "contributionId": "95ddcab9-9dfe-47a6-8068-3e07facaf5c1",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-30 21:43:01",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 225275024,
+     "objectId": "225275025"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "h.q. second army (main)",
+    "contributionId": "a59e062d-e447-4560-ac69-9f7f556de1eb",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-30 21:43:08",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 225275024,
+     "objectId": "225275025"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "second army",
+    "contributionId": "d5d69ee1-a5b4-4f30-9412-3c8851d801c9",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-30 21:43:16",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 225275024,
+     "objectId": "225275025"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "routes",
+    "contributionId": "20cc3be8-c846-496f-b5fb-1582be6ae1ec",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-30 21:46:35",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 225275024,
+     "objectId": "225275025"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "road width",
+    "contributionId": "b35e6717-2053-4c87-9367-18cb3597f3da",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-30 21:46:38",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 225275024,
+     "objectId": "225275025"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "bottleneck",
+    "contributionId": "1d0d10e7-5011-40fc-82a0-7efa2302f26d",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-30 21:46:43",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 225275024,
+     "objectId": "225275025"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "difficult road junction",
+    "contributionId": "ad8fc159-61d4-406b-9143-2b7ae51e436d",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-30 21:46:50",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 225275024,
+     "objectId": "225275025"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "road junction",
+    "contributionId": "105c65a3-d9d2-4b94-8ad8-2c33b6b099b7",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-30 21:46:54",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 225275024,
+     "objectId": "225275025"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "railways",
+    "contributionId": "20841c8b-b33a-4faf-99b5-26ec8bcd3349",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-30 21:46:58",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 225275024,
+     "objectId": "225275025"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "level crossing",
+    "contributionId": "7ebeb16f-6397-4c17-b0f5-924f1929545e",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-30 21:47:02",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 225275024,
+     "objectId": "225275025"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "water obstacles",
+    "contributionId": "10cfde3b-c278-4740-832d-73c105bf50c7",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-30 21:47:07",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 225275024,
+     "objectId": "225275025"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "culvert",
+    "contributionId": "42ba38b6-827a-4410-a041-79ede95ddfa9",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-30 21:47:10",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 225275024,
+     "objectId": "225275025"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "total length of bridge",
+    "contributionId": "30e32a1b-7634-4720-ad9e-2c77d98c77a4",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-30 21:47:23",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 225275024,
+     "objectId": "225275025"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "length of bridge",
+    "contributionId": "c56c4f90-ea9b-41b3-9958-097bb0158798",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-30 21:47:31",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 225275024,
+     "objectId": "225275025"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "water gap",
+    "contributionId": "b6f90c5a-2bf9-4394-b853-984eba061f34",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-30 21:47:36",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 225275024,
+     "objectId": "225275025"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "road classification",
+    "contributionId": "6eee9cac-4f55-44d8-9b43-16d1acd8f168",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-30 21:47:47",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 225275024,
+     "objectId": "225275025"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "built up area",
+    "contributionId": "ac90b558-9c35-4825-ad76-72e30ff81847",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-30 21:47:56",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 225275024,
+     "objectId": "225275025"
+    }
+   },
+   {
+    "aiMachineGenerated": false,
+    "contribution": "limit of air cover",
+    "contributionId": "3ff94019-3310-475b-aa3a-6b08a53857e4",
+    "contributionType": "tag",
+    "contributor": {
+     "naraStaff": false,
+     "userId": "d963ac98-ca23-4150-93f4-e19fc4527bcd",
+     "userName": "cathyhulm984077"
+    },
+    "createdAt": "2025-03-30 21:48:02",
+    "recordType": "contribution",
+    "source": "communityMember",
+    "target": {
+     "naId": 225275024,
+     "objectId": "225275025"
+    }
+   }
+  ],
+  "metadata_tag": [
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 225275024,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.707237",
+    "uuid": "dacc82b2-7bcd-4b86-8057-ad7b27d81faf"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 225275024,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.707439",
+    "uuid": "f5b0cca2-a945-4820-b023-4a4378292ff4"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 225275024,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.707986",
+    "uuid": "f295f3c2-c18e-435b-8428-a646d076cafc"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 225275024,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.712501",
+    "uuid": "8a64bf97-dcf0-4b44-8cf4-b0ad81eb8605"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 225275024,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.712999",
+    "uuid": "47c28d1e-e7ca-4402-b0ba-1c05e02a27d3"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 225275024,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.713198",
+    "uuid": "2841c1cd-1ef1-4545-85d9-5c5d31c4a015"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 225275024,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.713299",
+    "uuid": "e8cb05f6-9050-4acf-8c35-f63bf6eb80b3"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 225275024,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.713400",
+    "uuid": "e3136b45-e3dc-4f4b-8a2c-a68d3bf100b9"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 225275024,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.715649",
+    "uuid": "6dcacf69-437a-409e-a485-cc0e57fcf4e0"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 225275024,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.716069",
+    "uuid": "19060a25-31a7-484a-b51f-4cc76102ada4"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 225275024,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.716275",
+    "uuid": "feb4479a-bbef-41e1-a4f4-77eb4f950b3d"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 225275024,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.716575",
+    "uuid": "6872958e-296b-423f-842e-2e16a80833ae"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 225275024,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.716675",
+    "uuid": "32a9935c-8c49-4ec0-8ced-af5d876ce18a"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 225275024,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.726064",
+    "uuid": "6cc1f34a-91ed-4247-938a-d83c2cb25c57"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 225275024,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.726164",
+    "uuid": "82f83a34-4fb4-4e9d-ac46-ababdf3cf5b0"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 225275024,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.726263",
+    "uuid": "33939f07-789f-440f-b310-654e6717eb2a"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 225275024,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.726917",
+    "uuid": "5e0cb524-d52e-48a8-ac24-39ed037190ef"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 225275024,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.727017",
+    "uuid": "2737daea-db23-4b10-8a8c-cc424f2b6c4e"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 225275024,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.727219",
+    "uuid": "40bb9586-9d70-4c4e-8594-1d982e433c71"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 225275024,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.727318",
+    "uuid": "e3438693-77f9-41fc-a181-90a2c66805c1"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 225275024,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.727416",
+    "uuid": "ca5cc4bb-cd23-4d76-af6a-6b8cc1d16788"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 225275024,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.727515",
+    "uuid": "c4b6dccc-4ae7-4b1a-a063-d23af3ac4d33"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 225275024,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.727615",
+    "uuid": "5bc4c4d2-de06-495d-b5df-45827373c9fa"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 225275024,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.727728",
+    "uuid": "87bb9c6f-3dbd-481e-a908-d3c18351788c"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 225275024,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.727833",
+    "uuid": "28fafd0f-4296-4752-9b66-d4555b73483d"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 225275024,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.727933",
+    "uuid": "9bdac8a7-45f9-4472-81a3-ae37e2bd7b48"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 225275024,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.728135",
+    "uuid": "789fa7b9-15b9-4e14-82cf-d8be3b105d43"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 225275024,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.728253",
+    "uuid": "f1f1570c-9112-411c-ab28-92aff07b7db4"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 225275024,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.728457",
+    "uuid": "e2b8cef6-336a-4d88-9de2-d28c3b62da82"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 225275024,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.728657",
+    "uuid": "bd207349-5344-4b58-b96e-ba07b8921d37"
+   },
+   {
+    "controlGroup": {
+     "indexName": "contributions-tags",
+     "naId": 225275024,
+     "type": "tags"
+    },
+    "fileName": "None",
+    "ingestTime": "2026-03-01 13:21:21.728756",
+    "uuid": "eeb9d793-3b2b-4169-82aa-5a3efe04b72b"
+   }
+  ],
+  "_source_chunk": "descriptions/record-groups/rg_407/rg_407-249.jsonl"
+ },
+ {
+  "record": {
+   "accessRestriction": {
+    "status": "Unrestricted"
+   },
+   "ancestors": [
+    {
+     "distance": 3,
+     "inclusiveEndDate": {
+      "logicalDate": "1981-12-31",
+      "year": 1981
+     },
+     "inclusiveStartDate": {
+      "logicalDate": "1905-01-01",
+      "year": 1905
+     },
+     "levelOfDescription": "recordGroup",
+     "naId": 703,
+     "recordGroupNumber": 407,
+     "title": "Records of the Adjutant General's Office"
+    },
+    {
+     "creators": [
+      {
+       "abolishDate": {
+        "day": 18,
+        "logicalDate": "1947-09-18",
+        "month": 9,
+        "year": 1947
+       },
+       "authorityType": "organization",
+       "creatorType": "Most Recent",
+       "establishDate": {
+        "day": 4,
+        "logicalDate": "1907-03-04",
+        "month": 3,
+        "year": 1907
+       },
+       "heading": "War Department. The Adjutant General's Office. 3/4/1907-9/18/1947",
+       "naId": 10468382
+      }
+     ],
+     "distance": 2,
+     "inclusiveEndDate": {
+      "dateQualifier": "ca.",
+      "logicalDate": "1947-12-31",
+      "year": 1947
+     },
+     "inclusiveStartDate": {
+      "dateQualifier": "ca.",
+      "logicalDate": "1941-01-01",
+      "year": 1941
+     },
+     "levelOfDescription": "series",
+     "naId": 3054040,
+     "title": "World War II Records"
+    },
+    {
+     "distance": 1,
+     "levelOfDescription": "fileUnit",
+     "naId": 74003525,
+     "title": "2nd Army"
+    }
+   ],
+   "audiovisual": "False",
+   "dataControlGroup": {
+    "groupCd": "RDSC",
+    "groupId": "ou=NWCS-C,ou=groups"
+   },
+   "digitalObjects": [
+    {
+     "objectFileSize": 1234,
+     "objectFilename": "RG_407_2ndArmy_Fldr19_scan912.jpg",
+     "objectId": "225275027",
+     "objectType": "Image (JPG)",
+     "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/cartographic/rg-407/3054040/Batch0003/RG_407_2ndArmy_Fldr19_scan912.jpg"
+    }
+   ],
+   "generalRecordsTypes": [
+    "Maps and Charts"
+   ],
+   "levelOfDescription": "item",
+   "localIdentifier": "2nd Army Folder 19 -Overlays",
+   "naId": 225275026,
+   "physicalOccurrences": [
+    {
+     "copyStatus": "Preservation-Reproduction-Reference",
+     "mediaOccurrences": [
+      {
+       "containerId": "Folder 19",
+       "generalMediaTypes": [
+        "Loose Sheets"
+       ],
+       "specificMediaType": "Paper"
+      }
+     ],
+     "referenceUnits": [
+      {
+       "address1": "National Archives at College Park",
+       "address2": "8601 Adelphi Road",
+       "city": "College Park",
+       "email": "carto@nara.gov",
+       "fax": "301-837-3622",
+       "mailCode": "RDSC",
+       "name": "National Archives at College Park - Cartographic",
+       "phone": "301-837-3200",
+       "postalCode": "20740-6001",
+       "state": "MD"
+      }
+     ]
+    }
+   ],
+   "recordType": "description",
+   "title": "Fire Plan for Attach by 3 British Regiment Infantry Division Operation: \"Constellation\" 11 October 1944",
+   "useRestriction": {
+    "status": "Unrestricted"
+   }
+  },
+  "_source_chunk": "descriptions/record-groups/rg_407/rg_407-158.jsonl"
+ },
+ {
+  "record": {
+   "accessRestriction": {
+    "status": "Unrestricted"
+   },
+   "ancestors": [
+    {
+     "distance": 3,
+     "inclusiveEndDate": {
+      "logicalDate": "1981-12-31",
+      "year": 1981
+     },
+     "inclusiveStartDate": {
+      "logicalDate": "1905-01-01",
+      "year": 1905
+     },
+     "levelOfDescription": "recordGroup",
+     "naId": 703,
+     "recordGroupNumber": 407,
+     "title": "Records of the Adjutant General's Office"
+    },
+    {
+     "creators": [
+      {
+       "abolishDate": {
+        "day": 18,
+        "logicalDate": "1947-09-18",
+        "month": 9,
+        "year": 1947
+       },
+       "authorityType": "organization",
+       "creatorType": "Most Recent",
+       "establishDate": {
+        "day": 4,
+        "logicalDate": "1907-03-04",
+        "month": 3,
+        "year": 1907
+       },
+       "heading": "War Department. The Adjutant General's Office. 3/4/1907-9/18/1947",
+       "naId": 10468382
+      }
+     ],
+     "distance": 2,
+     "inclusiveEndDate": {
+      "dateQualifier": "ca.",
+      "logicalDate": "1947-12-31",
+      "year": 1947
+     },
+     "inclusiveStartDate": {
+      "dateQualifier": "ca.",
+      "logicalDate": "1941-01-01",
+      "year": 1941
+     },
+     "levelOfDescription": "series",
+     "naId": 3054040,
+     "title": "World War II Records"
+    },
+    {
+     "distance": 1,
+     "levelOfDescription": "fileUnit",
+     "naId": 74003525,
+     "title": "2nd Army"
+    }
+   ],
+   "audiovisual": "False",
+   "dataControlGroup": {
+    "groupCd": "RDSC",
+    "groupId": "ou=NWCS-C,ou=groups"
+   },
+   "digitalObjects": [
+    {
+     "objectFileSize": 1234,
+     "objectFilename": "RG_407_2ndArmy_Fldr19_scan913.jpg",
+     "objectId": "225275029",
+     "objectType": "Image (JPG)",
+     "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/cartographic/rg-407/3054040/Batch0003/RG_407_2ndArmy_Fldr19_scan913.jpg"
+    }
+   ],
+   "generalRecordsTypes": [
+    "Maps and Charts"
+   ],
+   "levelOfDescription": "item",
+   "localIdentifier": "2nd Army Folder 19 -Overlays",
+   "naId": 225275028,
+   "physicalOccurrences": [
+    {
+     "copyStatus": "Preservation-Reproduction-Reference",
+     "mediaOccurrences": [
+      {
+       "containerId": "Folder 19",
+       "generalMediaTypes": [
+        "Loose Sheets"
+       ],
+       "specificMediaType": "Paper"
+      }
+     ],
+     "referenceUnits": [
+      {
+       "address1": "National Archives at College Park",
+       "address2": "8601 Adelphi Road",
+       "city": "College Park",
+       "email": "carto@nara.gov",
+       "fax": "301-837-3622",
+       "mailCode": "RDSC",
+       "name": "National Archives at College Park - Cartographic",
+       "phone": "301-837-3200",
+       "postalCode": "20740-6001",
+       "state": "MD"
+      }
+     ]
+    }
+   ],
+   "recordType": "description",
+   "title": "Royal Artillery 12 Corps Reference Point Trace for Operation \"Mallard\"",
+   "useRestriction": {
+    "status": "Unrestricted"
+   }
+  },
+  "_source_chunk": "descriptions/record-groups/rg_407/rg_407-189.jsonl"
+ },
+ {
+  "record": {
+   "accessRestriction": {
+    "status": "Unrestricted"
+   },
+   "ancestors": [
+    {
+     "distance": 3,
+     "inclusiveEndDate": {
+      "logicalDate": "1981-12-31",
+      "year": 1981
+     },
+     "inclusiveStartDate": {
+      "logicalDate": "1905-01-01",
+      "year": 1905
+     },
+     "levelOfDescription": "recordGroup",
+     "naId": 703,
+     "recordGroupNumber": 407,
+     "title": "Records of the Adjutant General's Office"
+    },
+    {
+     "creators": [
+      {
+       "abolishDate": {
+        "day": 18,
+        "logicalDate": "1947-09-18",
+        "month": 9,
+        "year": 1947
+       },
+       "authorityType": "organization",
+       "creatorType": "Most Recent",
+       "establishDate": {
+        "day": 4,
+        "logicalDate": "1907-03-04",
+        "month": 3,
+        "year": 1907
+       },
+       "heading": "War Department. The Adjutant General's Office. 3/4/1907-9/18/1947",
+       "naId": 10468382
+      }
+     ],
+     "distance": 2,
+     "inclusiveEndDate": {
+      "dateQualifier": "ca.",
+      "logicalDate": "1947-12-31",
+      "year": 1947
+     },
+     "inclusiveStartDate": {
+      "dateQualifier": "ca.",
+      "logicalDate": "1941-01-01",
+      "year": 1941
+     },
+     "levelOfDescription": "series",
+     "naId": 3054040,
+     "title": "World War II Records"
+    },
+    {
+     "distance": 1,
+     "levelOfDescription": "fileUnit",
+     "naId": 74003525,
+     "title": "2nd Army"
+    }
+   ],
+   "audiovisual": "False",
+   "dataControlGroup": {
+    "groupCd": "RDSC",
+    "groupId": "ou=NWCS-C,ou=groups"
+   },
+   "digitalObjects": [
+    {
+     "objectFileSize": 1234,
+     "objectFilename": "RG_407_2ndArmy_Fldr19_scan914.jpg",
+     "objectId": "225275031",
+     "objectType": "Image (JPG)",
+     "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/cartographic/rg-407/3054040/Batch0003/RG_407_2ndArmy_Fldr19_scan914.jpg"
+    }
+   ],
+   "generalRecordsTypes": [
+    "Maps and Charts"
+   ],
+   "levelOfDescription": "item",
+   "localIdentifier": "2nd Army Folder 19 -Overlays",
+   "naId": 225275030,
+   "physicalOccurrences": [
+    {
+     "copyStatus": "Preservation-Reproduction-Reference",
+     "mediaOccurrences": [
+      {
+       "containerId": "Folder 19",
+       "generalMediaTypes": [
+        "Loose Sheets"
+       ],
+       "specificMediaType": "Paper"
+      }
+     ],
+     "referenceUnits": [
+      {
+       "address1": "National Archives at College Park",
+       "address2": "8601 Adelphi Road",
+       "city": "College Park",
+       "email": "carto@nara.gov",
+       "fax": "301-837-3622",
+       "mailCode": "RDSC",
+       "name": "National Archives at College Park - Cartographic",
+       "phone": "301-837-3200",
+       "postalCode": "20740-6001",
+       "state": "MD"
+      }
+     ]
+    }
+   ],
+   "recordType": "description",
+   "title": "Royal Artillery 51 Highland Divison Operation \"Collin\"",
+   "useRestriction": {
+    "status": "Unrestricted"
+   }
+  },
+  "_source_chunk": "descriptions/record-groups/rg_407/rg_407-15.jsonl"
+ },
+ {
+  "record": {
+   "accessRestriction": {
+    "status": "Unrestricted"
+   },
+   "ancestors": [
+    {
+     "distance": 3,
+     "inclusiveEndDate": {
+      "logicalDate": "1981-12-31",
+      "year": 1981
+     },
+     "inclusiveStartDate": {
+      "logicalDate": "1905-01-01",
+      "year": 1905
+     },
+     "levelOfDescription": "recordGroup",
+     "naId": 703,
+     "recordGroupNumber": 407,
+     "title": "Records of the Adjutant General's Office"
+    },
+    {
+     "creators": [
+      {
+       "abolishDate": {
+        "day": 18,
+        "logicalDate": "1947-09-18",
+        "month": 9,
+        "year": 1947
+       },
+       "authorityType": "organization",
+       "creatorType": "Most Recent",
+       "establishDate": {
+        "day": 4,
+        "logicalDate": "1907-03-04",
+        "month": 3,
+        "year": 1907
+       },
+       "heading": "War Department. The Adjutant General's Office. 3/4/1907-9/18/1947",
+       "naId": 10468382
+      }
+     ],
+     "distance": 2,
+     "inclusiveEndDate": {
+      "dateQualifier": "ca.",
+      "logicalDate": "1947-12-31",
+      "year": 1947
+     },
+     "inclusiveStartDate": {
+      "dateQualifier": "ca.",
+      "logicalDate": "1941-01-01",
+      "year": 1941
+     },
+     "levelOfDescription": "series",
+     "naId": 3054040,
+     "title": "World War II Records"
+    },
+    {
+     "distance": 1,
+     "levelOfDescription": "fileUnit",
+     "naId": 74003525,
+     "title": "2nd Army"
+    }
+   ],
+   "audiovisual": "False",
+   "dataControlGroup": {
+    "groupCd": "RDSC",
+    "groupId": "ou=NWCS-C,ou=groups"
+   },
+   "digitalObjects": [
+    {
+     "objectFileSize": 1234,
+     "objectFilename": "RG_407_2ndArmy_Fldr19_scan915.jpg",
+     "objectId": "225275033",
+     "objectType": "Image (JPG)",
+     "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/cartographic/rg-407/3054040/Batch0003/RG_407_2ndArmy_Fldr19_scan915.jpg"
+    }
+   ],
+   "generalRecordsTypes": [
+    "Maps and Charts"
+   ],
+   "levelOfDescription": "item",
+   "localIdentifier": "2nd Army Folder 19 -Overlays",
+   "naId": 225275032,
+   "physicalOccurrences": [
+    {
+     "copyStatus": "Preservation-Reproduction-Reference",
+     "mediaOccurrences": [
+      {
+       "containerId": "Folder 19",
+       "generalMediaTypes": [
+        "Loose Sheets"
+       ],
+       "specificMediaType": "Paper"
+      }
+     ],
+     "referenceUnits": [
+      {
+       "address1": "National Archives at College Park",
+       "address2": "8601 Adelphi Road",
+       "city": "College Park",
+       "email": "carto@nara.gov",
+       "fax": "301-837-3622",
+       "mailCode": "RDSC",
+       "name": "National Archives at College Park - Cartographic",
+       "phone": "301-837-3200",
+       "postalCode": "20740-6001",
+       "state": "MD"
+      }
+     ]
+    }
+   ],
+   "recordType": "description",
+   "title": "Operation \"Spring\" 24 July 1944",
+   "useRestriction": {
+    "status": "Unrestricted"
+   }
+  },
+  "_source_chunk": "descriptions/record-groups/rg_407/rg_407-353.jsonl"
+ }
+]

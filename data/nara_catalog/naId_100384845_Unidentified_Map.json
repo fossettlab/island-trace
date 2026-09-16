@@ -1,0 +1,216 @@
+{
+ "record": {
+  "accessRestriction": {
+   "status": "Unrestricted"
+  },
+  "ancestors": [
+   {
+    "distance": 3,
+    "inclusiveEndDate": {
+     "logicalDate": "1981-12-31",
+     "year": 1981
+    },
+    "inclusiveStartDate": {
+     "logicalDate": "1905-01-01",
+     "year": 1905
+    },
+    "levelOfDescription": "recordGroup",
+    "naId": 703,
+    "recordGroupNumber": 407,
+    "title": "Records of the Adjutant General's Office"
+   },
+   {
+    "creators": [
+     {
+      "abolishDate": {
+       "day": 18,
+       "logicalDate": "1947-09-18",
+       "month": 9,
+       "year": 1947
+      },
+      "authorityType": "organization",
+      "creatorType": "Most Recent",
+      "establishDate": {
+       "day": 4,
+       "logicalDate": "1907-03-04",
+       "month": 3,
+       "year": 1907
+      },
+      "heading": "War Department. The Adjutant General's Office. 3/4/1907-9/18/1947",
+      "naId": 10468382
+     }
+    ],
+    "distance": 2,
+    "inclusiveEndDate": {
+     "dateQualifier": "ca.",
+     "logicalDate": "1947-12-31",
+     "year": 1947
+    },
+    "inclusiveStartDate": {
+     "dateQualifier": "ca.",
+     "logicalDate": "1941-01-01",
+     "year": 1941
+    },
+    "levelOfDescription": "series",
+    "naId": 3054040,
+    "title": "World War II Records"
+   },
+   {
+    "distance": 1,
+    "levelOfDescription": "fileUnit",
+    "naId": 74003525,
+    "title": "2nd Army"
+   }
+  ],
+  "audiovisual": "False",
+  "dataControlGroup": {
+   "groupCd": "RDSC",
+   "groupId": "ou=NWCS-C,ou=groups"
+  },
+  "digitalObjects": [
+   {
+    "extractedText": "\nSheet 2 of 2\nCRANE\n3/8\nROOK\n1412\n322\n413\nROBIN\n460\n168,\n315\n461\n414\nT1452\n462\nT1449\n11453\n465\n75\n*\n310\n75\n1450\n309\nOWL\n3os\nDUCK\n307\n304;\nFAY\n/305\n73\n306\n67\nHUISSEN\n1242\n302\nLION\n1241\nCROW\n300\n71240\n301\nNo.\nE\nN\nAxis\n1236\nHOG\nHt\nNo.\nre\nN\nHt\nAxis\n1201\n7604 6577\n16\n135\n1239\n7183 7118\n9\n1235\njoone\n1202\n7632 6598\n10\n1234\n148\n1240\n7234 7191\n8\n135\n1238\nGOAT\n1203\n7664 6630\n10\n117\n1241\n7270 7230\n8\n135\nKCU4\n7364 6620\n11\n87\n1242\n7290 7258\n9\noono\ntiezy\n1205\n7400 6622\n58\n300\n7186 7174\n8\n17\nELST\n1237\n*1233\n-1231\n1206\n7395 6657\n10\n81\n301\n71407190\n8\n17\n1207\n7367 6659\n10\n107\n302\n7146 7250\n8\n67\n1208\naone\n303\n7090 7269\nconc\nRaj\nox\n1230\n7760 6642\n1232\n8\n1209\n304\n7112 7336\n109\n+\nFERRET\n7698 6660\n108\n1227\n1210\n7717 6678\n50\n305\n7135 7330\n8\n107\n1211\n7680 6676\n9\n97\n306\n8\n1228\n7230 7300\n62\n1212\n7660 6720\n9\n50\n307\n7136 7400\n8\n38\n1213\n7632 6763\n9\n55\n308\n7009 7439\n9\n90\nELEPHANT\n1224\n1214\n7686 6734\n10\n72\n309\n7058 7467\n9\n90\n6NWW\nGNWE\n11229\nFAWN\n1223\n1215\n7681 6781\n10\naono\n310\n7168 7510\n360\n1216\n7607 6797\n9\n52\n311\n7267 7476\n51\n6SWW\nGSWE\n1217\n7614 6846\n10\naono\n315\n7082 7578\n106\n1222\n1218\n7579 6832\n9\n52\n316\n7110 7660\n132\n1219\n7545 6870\n9\n52\n317\n7078 7653\n8\n20\n1226\n1220\n7551 6902\n9\n74\n318\n7035 7678\n20\nELK\n1221\n7510 6920\n9\n48\n1225\n319\n6942 7698\n10\n360\n1222\n7480 6980\n9\n30\n320\n6866 7690\n10\n345\n1223\n7440 7008\n9\n30\n321\n6817 7678\n1221\n10\n328\n1224\n7411 7026\n9\noono\n322\n67407637\n10\n330\nDOE\n1225\n7438 6954\n9\n25\nU,149\n6734 7550\n9\nconc\no\n1220\n1226\n7400 6972\n9\n20\n1450\n6725 7476\n8\n65\no\n1227\n7370 7065\n9\n45\n460\n6731 7596\n10\n335\n1228\n7336 7060\n9\n115\n461\n6685 7574\n10\n335\n1219\n1229\n7280 7020\n9\noono\n462\n6642 7549\n10\n335\n1230\n7440 7083\noono\n463\n6596 7524\n10\n335\n1217\n1231\n7415 7112\noono\n1452\n6654 7551\n10\nconc\nO\n1232\n7280 7070\noono\n1453\n6626 7533\n10\nO\n12:8\ncow\nconc\n1233\n7322 7114\n45\n413\n6694 7604\n335\n1234\n7330 7140\ncono\n4.68\n6640 7570\n10\n335\nsos\n1235\n7280 7145\n18\n414\n6592 7546\n10\n1216\n1235\n335\nBEAV\n7230 7160\n18\n412\n6663 7626\n15\ncone\nQ\n1237\n7251 7115\n20\n435\n16617 7609\n10\nconc\no\n1238\n7206 7145\n9\n20\nTi215\n12/3\n1214\nBEAR\n1212\n1210\n12 11\n1209\nPIG\n1205\n[203\n1204\nAPE.\n1202\nRHINO\n4201\n64\n67\nNIJMEGEN\n75\nSA/10/1679",
+    "objectFileSize": 5323421,
+    "objectFilename": "RG_407_2ndArmy_Fldr19_scan911.jpg",
+    "objectId": "100384846",
+    "objectType": "Image (JPG)",
+    "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/cartographic/rg-407/3054040/RG_407_2ndArmy_Fldr19_scan911.jpg"
+   }
+  ],
+  "generalRecordsTypes": [
+   "Maps and Charts"
+  ],
+  "levelOfDescription": "item",
+  "localIdentifier": "2nd Army Folder 19 -Overlays",
+  "naId": 100384845,
+  "physicalOccurrences": [
+   {
+    "copyStatus": "Preservation-Reproduction-Reference",
+    "mediaOccurrences": [
+     {
+      "containerId": "Folder 19",
+      "generalMediaTypes": [
+       "Loose Sheets"
+      ],
+      "specificMediaType": "Paper"
+     }
+    ],
+    "referenceUnits": [
+     {
+      "address1": "National Archives at College Park",
+      "address2": "8601 Adelphi Road",
+      "city": "College Park",
+      "email": "carto@nara.gov",
+      "fax": "301-837-3622",
+      "mailCode": "RDSC",
+      "name": "National Archives at College Park - Cartographic",
+      "phone": "301-837-3200",
+      "postalCode": "20740-6001",
+      "state": "MD"
+     }
+    ]
+   }
+  ],
+  "recordType": "description",
+  "title": "Unidentified Map",
+  "useRestriction": {
+   "status": "Unrestricted"
+  }
+ },
+ "record_comment": [
+  {
+   "aiMachineGenerated": false,
+   "contribution": "This looks like an artillery siting map for Highway 69 going from Nijmegen up to Arnhem.",
+   "contributionId": "a70f7097-ff9f-3151-b3d1-93a39d6ecb78",
+   "contributionSequence": 1,
+   "contributionType": "comment",
+   "contributor": {
+    "fullName": "undefined",
+    "naraStaff": false,
+    "userId": "98c15c40-f1ee-376c-8687-8e0e0a3effdb",
+    "userName": "imthemap"
+   },
+   "createdAt": "2022-03-12 20:23:10",
+   "recordType": "contribution",
+   "source": "communityMember",
+   "target": {
+    "naId": 100384845,
+    "objectId": "100384846",
+    "pageNum": 1
+   },
+   "updatedAt": "2022-03-12 20:23:10"
+  }
+ ],
+ "metadata_comment": [
+  {
+   "controlGroup": {
+    "indexName": "contributions-comments",
+    "naId": 100384845,
+    "type": "comments"
+   },
+   "fileName": "None",
+   "ingestTime": "2026-03-01 12:13:57.950665",
+   "uuid": "a781012a-4ae8-43e5-80d0-e25d96b78be2"
+  }
+ ],
+ "record_tag": [
+  {
+   "aiMachineGenerated": false,
+   "contribution": "wwmp4147-tg1",
+   "contributionId": "76580fde-d76b-3335-a269-03086b788081",
+   "contributionType": "tag",
+   "contributor": {
+    "fullName": "NARA Citizen Archivist",
+    "naraStaff": true,
+    "userId": "53f5828d-d0b8-3f3a-982e-844a0ea3fb92",
+    "userName": "NARA Citizen Archivist"
+   },
+   "createdAt": "2019-04-17 19:29:06",
+   "recordType": "contribution",
+   "source": "naraStaff",
+   "target": {
+    "naId": 100384845
+   }
+  },
+  {
+   "aiMachineGenerated": false,
+   "contribution": "wowa2mp41-47",
+   "contributionId": "7b17d290-0801-3a60-a293-fd0674e3bf46",
+   "contributionType": "tag",
+   "contributor": {
+    "fullName": "NARA Citizen Archivist",
+    "naraStaff": true,
+    "userId": "53f5828d-d0b8-3f3a-982e-844a0ea3fb92",
+    "userName": "NARA Citizen Archivist"
+   },
+   "createdAt": "2019-04-17 19:29:06",
+   "recordType": "contribution",
+   "source": "naraStaff",
+   "target": {
+    "naId": 100384845
+   }
+  }
+ ],
+ "metadata_tag": [
+  {
+   "controlGroup": {
+    "indexName": "contributions-tags",
+    "naId": 100384845,
+    "type": "tags"
+   },
+   "fileName": "None",
+   "ingestTime": "2026-03-01 12:18:18.170527",
+   "uuid": "e37199cb-3129-4499-831b-1a5dc2c90c96"
+  },
+  {
+   "controlGroup": {
+    "indexName": "contributions-tags",
+    "naId": 100384845,
+    "type": "tags"
+   },
+   "fileName": "None",
+   "ingestTime": "2026-03-01 12:18:18.170940",
+   "uuid": "29825fa1-9374-473a-ad45-f9329defd37e"
+  }
+ ]
+}

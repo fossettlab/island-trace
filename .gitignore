@@ -1,0 +1,7 @@
+data/derived/Copernicus_DSM_*.tif
+data/derived/cop_dem_*.tif
+data/source/*_warped.tif
+data/source/*_wgs84.tif
+dist/
+__pycache__/
+*.pyc

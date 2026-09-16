@@ -1,0 +1,1263 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.937135,
+     51.876822
+    ]
+   },
+   "properties": {
+    "ocr_id": "1201",
+    "ref": "7604 6577",
+    "x": 376040.0,
+    "y": 565770.0,
+    "following_tokens": "16 | 135 | 1239"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.874082,
+     51.924503
+    ]
+   },
+   "properties": {
+    "ocr_id": "1239",
+    "ref": "7183 7118",
+    "x": 371830.0,
+    "y": 571180.0,
+    "following_tokens": "9 | 1235 | joone"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.941127,
+     51.878769
+    ]
+   },
+   "properties": {
+    "ocr_id": "1202",
+    "ref": "7632 6598",
+    "x": 376320.0,
+    "y": 565980.0,
+    "following_tokens": "10 | 1234 | 148"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.881231,
+     51.931174
+    ]
+   },
+   "properties": {
+    "ocr_id": "1240",
+    "ref": "7234 7191",
+    "x": 372340.0,
+    "y": 571910.0,
+    "following_tokens": "8 | 135 | 1238"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.945662,
+     51.881712
+    ]
+   },
+   "properties": {
+    "ocr_id": "1203",
+    "ref": "7664 6630",
+    "x": 376640.0,
+    "y": 566300.0,
+    "following_tokens": "10 | 117 | 1241"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.886324,
+     51.934756
+    ]
+   },
+   "properties": {
+    "ocr_id": "1241",
+    "ref": "7270 7230",
+    "x": 372700.0,
+    "y": 572300.0,
+    "following_tokens": "8 | 135 | KCU4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.902145,
+     51.880165
+    ]
+   },
+   "properties": {
+    "ocr_id": "KCU4",
+    "ref": "7364 6620",
+    "x": 373640.0,
+    "y": 566200.0,
+    "following_tokens": "11 | 87 | 1242"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.889131,
+     51.937316
+    ]
+   },
+   "properties": {
+    "ocr_id": "1242",
+    "ref": "7290 7258",
+    "x": 372900.0,
+    "y": 572580.0,
+    "following_tokens": "9 | oono | tiezy"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.907364,
+     51.880423
+    ]
+   },
+   "properties": {
+    "ocr_id": "1205",
+    "ref": "7400 6622",
+    "x": 374000.0,
+    "y": 566220.0,
+    "following_tokens": "58 | 300 | 7186 7174"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.874317,
+     51.92954
+    ]
+   },
+   "properties": {
+    "ocr_id": "300",
+    "ref": "7186 7174",
+    "x": 371860.0,
+    "y": 571740.0,
+    "following_tokens": "8 | 17 | ELST"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.906515,
+     51.883557
+    ]
+   },
+   "properties": {
+    "ocr_id": "1206",
+    "ref": "7395 6657",
+    "x": 373950.0,
+    "y": 566570.0,
+    "following_tokens": "10 | 81 | 301"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.867575,
+     51.930875
+    ]
+   },
+   "properties": {
+    "ocr_id": "301",
+    "ref": "7140 7190",
+    "x": 371400.0,
+    "y": 571900.0,
+    "following_tokens": "8 | 17 | 1207"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.902443,
+     51.883675
+    ]
+   },
+   "properties": {
+    "ocr_id": "1207",
+    "ref": "7367 6659",
+    "x": 373670.0,
+    "y": 566590.0,
+    "following_tokens": "10 | 107 | 302"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.86823,
+     51.936278
+    ]
+   },
+   "properties": {
+    "ocr_id": "302",
+    "ref": "7146 7250",
+    "x": 371460.0,
+    "y": 572500.0,
+    "following_tokens": "8 | 67 | 1208"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.860022,
+     51.93786
+    ]
+   },
+   "properties": {
+    "ocr_id": "303",
+    "ref": "7090 7269",
+    "x": 370900.0,
+    "y": 572690.0,
+    "following_tokens": "conc | Raj | ox"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.959557,
+     51.882994
+    ]
+   },
+   "properties": {
+    "ocr_id": "1230",
+    "ref": "7760 6642",
+    "x": 377600.0,
+    "y": 566420.0,
+    "following_tokens": "1232 | 8 | 1209"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.862978,
+     51.943928
+    ]
+   },
+   "properties": {
+    "ocr_id": "304",
+    "ref": "7112 7336",
+    "x": 371120.0,
+    "y": 573360.0,
+    "following_tokens": "109 | + | FERRET"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.950494,
+     51.88448
+    ]
+   },
+   "properties": {
+    "ocr_id": "FERRET",
+    "ref": "7698 6660",
+    "x": 376980.0,
+    "y": 566600.0,
+    "following_tokens": "108 | 1227 | 1210"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.953191,
+     51.886137
+    ]
+   },
+   "properties": {
+    "ocr_id": "1210",
+    "ref": "7717 6678",
+    "x": 377170.0,
+    "y": 566780.0,
+    "following_tokens": "50 | 305 | 7135 7330"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.866343,
+     51.94344
+    ]
+   },
+   "properties": {
+    "ocr_id": "305",
+    "ref": "7135 7330",
+    "x": 371350.0,
+    "y": 573300.0,
+    "following_tokens": "8 | 107 | 1211"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.947826,
+     51.885879
+    ]
+   },
+   "properties": {
+    "ocr_id": "1211",
+    "ref": "7680 6676",
+    "x": 376800.0,
+    "y": 566760.0,
+    "following_tokens": "9 | 97 | 306"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.88026,
+     51.940956
+    ]
+   },
+   "properties": {
+    "ocr_id": "1228",
+    "ref": "7230 7300",
+    "x": 372300.0,
+    "y": 573000.0,
+    "following_tokens": "62 | 1212 | 7660 6720"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.94477,
+     51.889789
+    ]
+   },
+   "properties": {
+    "ocr_id": "1212",
+    "ref": "7660 6720",
+    "x": 376600.0,
+    "y": 567200.0,
+    "following_tokens": "9 | 50 | 307"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.866235,
+     51.94973
+    ]
+   },
+   "properties": {
+    "ocr_id": "307",
+    "ref": "7136 7400",
+    "x": 371360.0,
+    "y": 574000.0,
+    "following_tokens": "8 | 38 | 1213"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.940556,
+     51.893592
+    ]
+   },
+   "properties": {
+    "ocr_id": "1213",
+    "ref": "7632 6763",
+    "x": 376320.0,
+    "y": 567630.0,
+    "following_tokens": "9 | 55 | 308"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.84763,
+     51.952949
+    ]
+   },
+   "properties": {
+    "ocr_id": "308",
+    "ref": "7009 7439",
+    "x": 370090.0,
+    "y": 574390.0,
+    "following_tokens": "9 | 90 | ELEPHANT"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.948497,
+     51.891102
+    ]
+   },
+   "properties": {
+    "ocr_id": "1214",
+    "ref": "7686 6734",
+    "x": 376860.0,
+    "y": 567340.0,
+    "following_tokens": "10 | 72 | 309"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.854652,
+     51.955574
+    ]
+   },
+   "properties": {
+    "ocr_id": "309",
+    "ref": "7058 7467",
+    "x": 370580.0,
+    "y": 574670.0,
+    "following_tokens": "9 | 90 | 6NWW"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.947609,
+     51.895314
+    ]
+   },
+   "properties": {
+    "ocr_id": "1215",
+    "ref": "7681 6781",
+    "x": 376810.0,
+    "y": 567810.0,
+    "following_tokens": "10 | aono | 310"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.870491,
+     51.959683
+    ]
+   },
+   "properties": {
+    "ocr_id": "310",
+    "ref": "7168 7510",
+    "x": 371680.0,
+    "y": 575100.0,
+    "following_tokens": "360 | 1216 | 7607 6797"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.936807,
+     51.896592
+    ]
+   },
+   "properties": {
+    "ocr_id": "1216",
+    "ref": "7607 6797",
+    "x": 376070.0,
+    "y": 567970.0,
+    "following_tokens": "9 | 52 | 311"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.885009,
+     51.956848
+    ]
+   },
+   "properties": {
+    "ocr_id": "311",
+    "ref": "7267 7476",
+    "x": 372670.0,
+    "y": 574760.0,
+    "following_tokens": "51 | 6SWW | GSWE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.937654,
+     51.901009
+    ]
+   },
+   "properties": {
+    "ocr_id": "1217",
+    "ref": "7614 6846",
+    "x": 376140.0,
+    "y": 568460.0,
+    "following_tokens": "10 | aono | 315"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.857739,
+     51.965599
+    ]
+   },
+   "properties": {
+    "ocr_id": "315",
+    "ref": "7082 7578",
+    "x": 370820.0,
+    "y": 575780.0,
+    "following_tokens": "106 | 1222 | 1218"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.932619,
+     51.899677
+    ]
+   },
+   "properties": {
+    "ocr_id": "1218",
+    "ref": "7579 6832",
+    "x": 375790.0,
+    "y": 568320.0,
+    "following_tokens": "9 | 52 | 316"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.861514,
+     51.973027
+    ]
+   },
+   "properties": {
+    "ocr_id": "316",
+    "ref": "7110 7660",
+    "x": 371100.0,
+    "y": 576600.0,
+    "following_tokens": "132 | 1219 | 7545 6870"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.927549,
+     51.903017
+    ]
+   },
+   "properties": {
+    "ocr_id": "1219",
+    "ref": "7545 6870",
+    "x": 375450.0,
+    "y": 568700.0,
+    "following_tokens": "9 | 52 | 317"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.856885,
+     51.972327
+    ]
+   },
+   "properties": {
+    "ocr_id": "317",
+    "ref": "7078 7653",
+    "x": 370780.0,
+    "y": 576530.0,
+    "following_tokens": "8 | 20 | 1226"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.928309,
+     51.905905
+    ]
+   },
+   "properties": {
+    "ocr_id": "1220",
+    "ref": "7551 6902",
+    "x": 375510.0,
+    "y": 569020.0,
+    "following_tokens": "9 | 74 | 318"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.85054,
+     51.974476
+    ]
+   },
+   "properties": {
+    "ocr_id": "318",
+    "ref": "7035 7678",
+    "x": 370350.0,
+    "y": 576780.0,
+    "following_tokens": "20 | ELK | 1221"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.922291,
+     51.907433
+    ]
+   },
+   "properties": {
+    "ocr_id": "1221",
+    "ref": "7510 6920",
+    "x": 375100.0,
+    "y": 569200.0,
+    "following_tokens": "9 | 48 | 1225"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.836938,
+     51.976062
+    ]
+   },
+   "properties": {
+    "ocr_id": "319",
+    "ref": "6942 7698",
+    "x": 369420.0,
+    "y": 576980.0,
+    "following_tokens": "10 | 360 | 1222"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.917723,
+     51.912758
+    ]
+   },
+   "properties": {
+    "ocr_id": "1222",
+    "ref": "7480 6980",
+    "x": 374800.0,
+    "y": 569800.0,
+    "following_tokens": "9 | 30 | 320"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.825913,
+     51.975171
+    ]
+   },
+   "properties": {
+    "ocr_id": "320",
+    "ref": "6866 7690",
+    "x": 368660.0,
+    "y": 576900.0,
+    "following_tokens": "10 | 345 | 1223"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.911813,
+     51.915186
+    ]
+   },
+   "properties": {
+    "ocr_id": "1223",
+    "ref": "7440 7008",
+    "x": 374400.0,
+    "y": 570080.0,
+    "following_tokens": "9 | 30 | 321"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.81883,
+     51.973981
+    ]
+   },
+   "properties": {
+    "ocr_id": "321",
+    "ref": "6817 7678",
+    "x": 368170.0,
+    "y": 576780.0,
+    "following_tokens": "1221 | 10 | 328"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.907537,
+     51.91674
+    ]
+   },
+   "properties": {
+    "ocr_id": "1224",
+    "ref": "7411 7026",
+    "x": 374110.0,
+    "y": 570260.0,
+    "following_tokens": "9 | oono | 322"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.807782,
+     51.970122
+    ]
+   },
+   "properties": {
+    "ocr_id": "322",
+    "ref": "6740 7637",
+    "x": 367400.0,
+    "y": 576370.0,
+    "following_tokens": "10 | 330 | DOE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.911713,
+     51.910331
+    ]
+   },
+   "properties": {
+    "ocr_id": "1225",
+    "ref": "7438 6954",
+    "x": 374380.0,
+    "y": 569540.0,
+    "following_tokens": "9 | 25 | U,149"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.807234,
+     51.962293
+    ]
+   },
+   "properties": {
+    "ocr_id": "U,149",
+    "ref": "6734 7550",
+    "x": 367340.0,
+    "y": 575500.0,
+    "following_tokens": "9 | conc | o"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.906129,
+     51.911865
+    ]
+   },
+   "properties": {
+    "ocr_id": "1226",
+    "ref": "7400 6972",
+    "x": 374000.0,
+    "y": 569720.0,
+    "following_tokens": "9 | 20 | 1450"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.806201,
+     51.955625
+    ]
+   },
+   "properties": {
+    "ocr_id": "1450",
+    "ref": "6725 7476",
+    "x": 367250.0,
+    "y": 574760.0,
+    "following_tokens": "8 | 65 | o"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.901442,
+     51.920154
+    ]
+   },
+   "properties": {
+    "ocr_id": "1227",
+    "ref": "7370 7065",
+    "x": 373700.0,
+    "y": 570650.0,
+    "following_tokens": "9 | 45 | 460"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.806626,
+     51.966418
+    ]
+   },
+   "properties": {
+    "ocr_id": "460",
+    "ref": "6731 7596",
+    "x": 367310.0,
+    "y": 575960.0,
+    "following_tokens": "10 | 335 | 1228"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.89652,
+     51.91963
+    ]
+   },
+   "properties": {
+    "ocr_id": "1228",
+    "ref": "7336 7060",
+    "x": 373360.0,
+    "y": 570600.0,
+    "following_tokens": "9 | 115 | 461"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.800019,
+     51.964336
+    ]
+   },
+   "properties": {
+    "ocr_id": "461",
+    "ref": "6685 7574",
+    "x": 366850.0,
+    "y": 575740.0,
+    "following_tokens": "10 | 335 | 1219"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.888526,
+     51.915914
+    ]
+   },
+   "properties": {
+    "ocr_id": "1229",
+    "ref": "7280 7020",
+    "x": 372800.0,
+    "y": 570200.0,
+    "following_tokens": "9 | oono | 462"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.793859,
+     51.961991
+    ]
+   },
+   "properties": {
+    "ocr_id": "462",
+    "ref": "6642 7549",
+    "x": 366420.0,
+    "y": 575490.0,
+    "following_tokens": "10 | 335 | 1230"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.911549,
+     51.921924
+    ]
+   },
+   "properties": {
+    "ocr_id": "1230",
+    "ref": "7440 7083",
+    "x": 374400.0,
+    "y": 570830.0,
+    "following_tokens": "oono | 463 | 6596 7524"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.787264,
+     51.959639
+    ]
+   },
+   "properties": {
+    "ocr_id": "463",
+    "ref": "6596 7524",
+    "x": 365960.0,
+    "y": 575240.0,
+    "following_tokens": "10 | 335 | 1217"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.907814,
+     51.924475
+    ]
+   },
+   "properties": {
+    "ocr_id": "1231",
+    "ref": "7415 7112",
+    "x": 374150.0,
+    "y": 571120.0,
+    "following_tokens": "oono | 1452 | 6654 7551"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.795597,
+     51.962198
+    ]
+   },
+   "properties": {
+    "ocr_id": "1452",
+    "ref": "6654 7551",
+    "x": 366540.0,
+    "y": 575510.0,
+    "following_tokens": "10 | conc | O"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.888348,
+     51.920406
+    ]
+   },
+   "properties": {
+    "ocr_id": "1232",
+    "ref": "7280 7070",
+    "x": 372800.0,
+    "y": 570700.0,
+    "following_tokens": "oono | 1453 | 6626 7533"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.791593,
+     51.960517
+    ]
+   },
+   "properties": {
+    "ocr_id": "1453",
+    "ref": "6626 7533",
+    "x": 366260.0,
+    "y": 575330.0,
+    "following_tokens": "10 | O | 12:8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.894294,
+     51.924451
+    ]
+   },
+   "properties": {
+    "ocr_id": "1233",
+    "ref": "7322 7114",
+    "x": 373220.0,
+    "y": 571140.0,
+    "following_tokens": "45 | 413 | 6694 7604"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.801215,
+     51.967052
+    ]
+   },
+   "properties": {
+    "ocr_id": "413",
+    "ref": "6694 7604",
+    "x": 366940.0,
+    "y": 576040.0,
+    "following_tokens": "335 | 1234 | 7330 7140"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.895364,
+     51.926804
+    ]
+   },
+   "properties": {
+    "ocr_id": "1234",
+    "ref": "7330 7140",
+    "x": 373300.0,
+    "y": 571400.0,
+    "following_tokens": "cono | 4.68 | 6640 7570"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.79349,
+     51.963873
+    ]
+   },
+   "properties": {
+    "ocr_id": "4.68",
+    "ref": "6640 7570",
+    "x": 366400.0,
+    "y": 575700.0,
+    "following_tokens": "10 | 335 | sos"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.888081,
+     51.927143
+    ]
+   },
+   "properties": {
+    "ocr_id": "1235",
+    "ref": "7280 7145",
+    "x": 372800.0,
+    "y": 571450.0,
+    "following_tokens": "18 | 414 | 6592 7546"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.7866,
+     51.961605
+    ]
+   },
+   "properties": {
+    "ocr_id": "414",
+    "ref": "6592 7546",
+    "x": 365920.0,
+    "y": 575460.0,
+    "following_tokens": "10 | 1216 | 1235"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.880761,
+     51.92838
+    ]
+   },
+   "properties": {
+    "ocr_id": "BEAV",
+    "ref": "7230 7160",
+    "x": 372300.0,
+    "y": 571600.0,
+    "following_tokens": "18 | 412 | 6663 7626"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.796624,
+     51.968956
+    ]
+   },
+   "properties": {
+    "ocr_id": "412",
+    "ref": "6663 7626",
+    "x": 366630.0,
+    "y": 576260.0,
+    "following_tokens": "15 | cone | Q"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.883974,
+     51.924384
+    ]
+   },
+   "properties": {
+    "ocr_id": "1237",
+    "ref": "7251 7115",
+    "x": 372510.0,
+    "y": 571150.0,
+    "following_tokens": "20 | 435 | 16617 7609"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.877327,
+     51.926979
+    ]
+   },
+   "properties": {
+    "ocr_id": "1238",
+    "ref": "7206 7145",
+    "x": 372060.0,
+    "y": 571450.0,
+    "following_tokens": "9 | 20 | Ti215"
+   }
+  }
+ ]
+}
