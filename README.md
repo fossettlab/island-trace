@@ -4,6 +4,9 @@ Identification and georeferencing of NARA 100384845, "Unidentified Map": a Briti
 defensive-fire trace of the Nijmegen bridgehead ("the Island"), October 1944. The story page is in `site/`; this
 file is the evidence report. General tools live in [bradleylab/mystery-solver](https://github.com/bradleylab/mystery-solver).
 
+Investigation carried out in September 2026 by Alex Bradley (Fossett Lab, Washington University in St. Louis) with
+Claude Code. Licences in `LICENSE.md`.
+
 **Subject file:** [File:Unidentified Map - NARA - 100384845.jpg](https://commons.wikimedia.org/wiki/File:Unidentified_Map_-_NARA_-_100384845.jpg)
 (5,836 × 7,289 px, 5.08 MB), NARA National Archives Identifier (NAID) [100384845](https://catalog.archives.gov/id/100384845).
 
